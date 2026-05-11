@@ -52,7 +52,7 @@ export default {
           },
           {
             numero: '1.4',
-            titulo: 'Requerimientos y solicitudes especiales',
+            titulo: 'Requerimiento de solicitudes especiales',
             hash: 't_1_4',
           },
           {
@@ -240,7 +240,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA3_621602_DU.pdf',
       },
       {
         icono: 'fas fa-download',

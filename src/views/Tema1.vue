@@ -59,7 +59,7 @@
           .tarjeta.color-acento-botones--borde.p-4(titulo="Pasajero")
             .row.justify-content-center.align-items-center
               .col-lg-7.col-md-12.mb-4.mb-lg-0
-                p.mb-0 Es la persona que se traslada de un lugar a otro mediante un medio de transporte, sin ser parte de la tripulación. En el contexto turístico, este rol suele ser asumido por los usuarios durante los desplazamientos hacia y desde el destino. En la industria, es común el uso del término pax para referirse a este tipo de usuario.
+                p.mb-0 Es la persona que se traslada de un lugar a otro mediante un medio de transporte, sin ser parte de la tripulación. En el contexto turístico, este rol suele ser asumido por los usuarios durante los desplazamientos hacia y desde el destino. En la industria, es común el uso del término #[i pax] para referirse a este tipo de usuario.
               .col-lg-5.col-md-8
                 img(src="@/assets/curso/tema1/img06.png")
 
@@ -153,7 +153,7 @@
     separador
     
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.2 Características del servicio turistico
+      h2 1.2 Características
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -286,7 +286,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img27.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Desde la perspectiva del marketing turístico, esta teoría permite comprender qué motiva a los usuarios a adquirir un servicio. En este contexto, Philip Kotler (1983) define las necesidades como una sensación de carencia, ya sea de tipo fisiológico o psicológico. A partir de ellas surgen los deseos, que representan la forma en que una persona decide satisfacer una necesidad, influenciados por factores culturales, sociales y personales. Cuando estos deseos se respaldan con capacidad adquisitiva, se convierten en demanda.
+            p.mb-0 Desde la perspectiva del #[i marketing] turístico, esta teoría permite comprender qué motiva a los usuarios a adquirir un servicio. En este contexto, Philip Kotler (1983) define las necesidades como una sensación de carencia, ya sea de tipo fisiológico o psicológico. A partir de ellas surgen los deseos, que representan la forma en que una persona decide satisfacer una necesidad, influenciados por factores culturales, sociales y personales. Cuando estos deseos se respaldan con capacidad adquisitiva, se convierten en demanda.
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -329,7 +329,7 @@
       .col-lg-2.col-md-6.mb-4.mb-lg-0
         img(src="@/assets/curso/tema1/img33.png",).img-fluid
       .col-lg-10
-        p.mb-3 Entre los requerimientos más comunes se encuentran la flexibilidad en los horarios de ingreso y salida, la ubicación estratégica del establecimiento y la facilidad en los procesos de reserva, la disponibilidad de espacios para reuniones de negocios, el acceso a conectividad inalámbrica (wifi) y la atención personalizada. Estas solicitudes reflejan la diversidad de perfiles de los usuarios y la necesidad de adaptar el servicio a diferentes contextos, como el turismo de ocio o de negocios.
+        p.mb-3 Entre los requerimientos más comunes se encuentran la flexibilidad en los horarios de ingreso y salida, la ubicación estratégica del establecimiento y la facilidad en los procesos de reserva, la disponibilidad de espacios para reuniones de negocios, el acceso a conectividad inalámbrica (#[i wifi]) y la atención personalizada. Estas solicitudes reflejan la diversidad de perfiles de los usuarios y la necesidad de adaptar el servicio a diferentes contextos, como el turismo de ocio o de negocios.
 
         .row.justify-content-center.align-items-center
           .col-lg
@@ -356,12 +356,12 @@
             tbody
               tr
                 td Flexibilidad de horarios.
-                td Solicitud de <i>check-in</i> temprano o <i>check-out</i> tardío.
+                td Solicitud de #[i check-in] temprano o #[i check-out] tardío.
                 td Recepción.
                 td Sujeto a disponibilidad de habitaciones.
               tr
                 td Conectividad.
-                td Acceso a wifi estable y de alta velocidad.
+                td Acceso a #[i wifi] estable y de alta velocidad.
                 td Sistemas / Recepción.
                 td Garantizar cobertura y soporte técnico.
               tr
@@ -372,7 +372,7 @@
               tr
                 td Ubicación y transporte.
                 td Cercanía a puntos de interés o traslado.
-                td Recepción / Concierge.
+                td Recepción / #[i Concierge].
                 td Coordinación con proveedores externos.
               tr
                 td Atención personalizada.
@@ -445,7 +445,7 @@
           .tarjeta.color-acento-botones--borde.p-4(titulo="Acceso a la información")
             .row.justify-content-center.align-items-center
               .col-lg-8.col-md-12.order-2.order-lg-1
-                p.mb-0 Se resume en el uso de Internet, redes sociales y plataformas digitales para validar o confirmar la decisión de compra.<br><br><b>Ejemplo en turismo:</b> consultar reseñas en páginas como <i>Booking</i> o <i>TripAdvisor</i>.
+                p.mb-0 Se resume en el uso de Internet, redes sociales y plataformas digitales para validar o confirmar la decisión de compra.<br><br><b>Ejemplo en turismo:</b> consultar reseñas en páginas como #[i Booking] o #[i TripAdvisor].
               .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
                 img(src="@/assets/curso/tema1/img39.svg", style="max-width: 100px !important").mx-auto
 
@@ -477,7 +477,7 @@
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/tema1/img43.svg' alt='', style="width: 100px;").mx-auto
-            h4.text-center #[b Promoción y marketing] 
+            h4.text-center #[b Promoción y #[i marketing]] 
             p.mb-3.text-center Publicidad como ofertas y estrategias comerciales consultadas o que impactan al cliente.
             p.mb-0.text-center Ejemplo en turismo: descuentos obtenidos en paquetes turísticos.
 
@@ -495,7 +495,7 @@
                 img(src='@/assets/curso/tema1/img45.svg' alt='', style="width: 100px;").mx-auto
             h4.text-center #[b Tecnología] 
             p.mb-3.text-center Herramientas digitales para buscar, comparar y comprar.
-            p.mb-0.text-center Ejemplo en turismo: reservas en línea y <i>apps</i> de viaje.
+            p.mb-0.text-center Ejemplo en turismo: reservas en línea y #[i apps] de viaje.
 
 
     .row.justify-content-center.mb-5.align-items-center

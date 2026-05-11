@@ -226,32 +226,47 @@ figcaption
   background-size: cover
 
 .bg-fondo-7
-  // background-image: url("../assets/curso/tema2/img04.png") !important
+  background-image: url("../assets/curso/tema2/img03.png") !important
   background-position: center
   background-size: cover
 
 .bg-fondo-8
-  // background-image: url("../assets/curso/tema2/img07.png") !important
+  background-image: url("../assets/curso/tema2/img10.png") !important
   background-position: center
   background-size: cover
 
 .bg-fondo-9
-  // background-image: url("../assets/curso/tema3/img06.png") !important
+  background-image: url("../assets/curso/tema2/img26.png") !important
   background-position: center
   background-size: cover
 
 .bg-fondo-10
-  // background-image: url("../assets/curso/tema3/img10.png") !important
+  background-image: url("../assets/curso/tema3/img04.png") !important
   background-position: center
   background-size: cover
 
 .bg-fondo-11
-  // background-image: url("../assets/curso/tema5/img07.png") !important
+  background-image: url("../assets/curso/tema3/img07.png") !important
   background-position: center
   background-size: cover
 
 .bg-fondo-12
-  // background-image: url("../assets/curso/tema4/img02.png") !important
+  background-image: url("../assets/curso/tema3/img25.png") !important
+  background-position: center
+  background-size: cover
+
+.bg-fondo-13
+  background-image: url("../assets/curso/tema4/img16.png") !important
+  background-position: center
+  background-size: cover
+
+.bg-fondo-14
+  background-image: url("../assets/curso/tema5/img11.png") !important
+  background-position: center
+  background-size: cover
+
+.bg-fondo-15
+  background-image: url("../assets/curso/tema6/img15.png") !important
   background-position: center
   background-size: cover
 
@@ -487,7 +502,7 @@ figcaption
 .acordion__accion__btn--a
   background-color: #fff !important
 .acordion__activo
-  // background-image: url("../assets/curso/tema1/img15.png") !important
+  background-image: url("../assets/curso/tema2/img15.png") !important
   background-size: cover
   background-position: center
   // background-color: #EBF4FF !important
@@ -646,7 +661,8 @@ a, button, div
 
 .bg-color-23
   background-color: #F7FAEF !important
-
+.bg-color-24
+  background-color: #F8FCFE !important
 .bg-color-9
   background-color: #FFE6D2
   &.cajon
@@ -758,7 +774,7 @@ a, button, div
     transform: translateY(50%)
     width: 30px
     height: 30px
-    // background-image: url("../assets/curso/icono-subtitulo.png")
+    background-image: url("../assets/curso/icono-subtitulo.png")
 
 .img-topright
   padding: 4.5rem 2rem 3rem !important
@@ -1082,13 +1098,17 @@ a, button, div
 
     .cita-decorada__imagen-flotante-6
       position: absolute
-      transform: translateY(-127px) translateX(-10px)
+      transform: translateY(-60px) translateX(75px)
       z-index: 3
-      max-width: 300px
+      max-width: 100px
       margin: 0 auto
-      @media (max-width: 1025px)
-        transform: translateY(-90px) translateX(-5px)
-        max-width: 215px
+      @media (max-width: $bp-max-lg)
+        transform: translateY(-63px) translateX(32px)
+        max-width: 100px
+      @media screen and (max-width: $bp-max-md)
+        transform: translateY(-0px) translateX(0px)
+        position: relative
+        max-width: 100px
 
     .cita-decorada__imagen-flotante-7
       position: absolute
@@ -1136,3 +1156,20 @@ a, button, div
     line-height: 1.6
     font-size: 1rem
     font-family: system-ui, sans-serif
+
+.border-15px-izq
+  border-radius: 15px 0 0 15px
+
+.border-15px-der
+  border-radius: 0 15px 15px 0
+  @media screen and (max-width: $bp-max-md)
+    border-radius: 15px 15px 15px 15px
+
+.border-15px-md
+  border-radius: 0
+  @media screen and (max-width: $bp-max-md)
+    border-radius: 0 15px 15px 0
+
+.ml-auto
+  margin-left: auto
+  margin-right: 0
