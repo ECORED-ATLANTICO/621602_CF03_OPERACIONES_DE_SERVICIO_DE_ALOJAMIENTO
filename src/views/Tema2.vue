@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-md-8.mb-4.mb-lg-0
-        img(src='@/assets/curso/tema2/img01.png', alt='Texto alternativo')
+        img(src='@/assets/curso/tema2/img01.png', alt='')
       .col-lg-9.col-md-12
         p.mb-0 El servicio al cliente en el sector turístico constituye un elemento fundamental para la calidad, competitividad y sostenibilidad de los establecimientos de alojamiento. Más allá de la simple prestación de un servicio, implica la capacidad de comprender las necesidades, expectativas y percepciones del usuario para ofrecer experiencias satisfactorias y memorables. En un entorno caracterizado por la diversidad cultural y la alta exigencia del cliente, el servicio se convierte en un factor diferenciador que influye directamente en la fidelización, la reputación y el posicionamiento de las empresas turísticas. En este sentido, su gestión requiere no solo conocimiento técnico, sino también habilidades comunicativas, actitud de servicio y enfoque centrado en el cliente.
 
@@ -34,7 +34,7 @@
         .tarjeta.row.justify-content-center.align-items-center.mb-0.p-2
           .row.justify-content-center.align-items-center
             .col-lg-3.col-md-8.mb-4.mb-lg-0
-              img(src='@/assets/curso/tema2/img04.png', alt='Texto alternativo')
+              img(src='@/assets/curso/tema2/img04.png', alt='')
             .col-lg-9.col-md-12
               p.mb-3 Los elementos tangibles del servicio al cliente son:
               SlyderF(columnas="col-lg-6 col-xl-4 col-md-12 col-sm-12")
@@ -87,7 +87,7 @@
           p.mb-0.ms-lg-5.ms-0 En este contexto, la calidad del servicio depende en gran medida del talento humano, ya que el personal es el encargado de materializar los procesos y generar valor en cada interacción. Como señala Lisa Ford (2013), “si no se cuida lo básico, de nada servirán los detalles y los extras”, lo que resalta la importancia de garantizar estándares fundamentales en la prestación del servicio. Por ello, es esencial que quienes hacen parte de la organización comprendan los objetivos del servicio y su rol en la satisfacción del cliente, contribuyendo de manera consciente al cumplimiento de estos propósitos.
 
       .col-lg-3.col-md-6
-        img(src='@/assets/curso/tema2/img11.png', alt='Texto alternativo')
+        img(src='@/assets/curso/tema2/img11.png', alt='')
 
     separador
 

@@ -19,7 +19,7 @@
             p.mb-0 De igual forma, el componente promueve el desarrollo de habilidades en comunicación, negociación y ventas, esenciales para una interacción efectiva con el cliente y para la comercialización de servicios. A lo largo de los contenidos, se estudian los tipos de comunicación, las habilidades comunicativas, los canales de atención y las técnicas de negociación, cotización y venta, favoreciendo una comprensión integral de los procesos de atención y asesoría. Así, se fortalecen capacidades para identificar necesidades, formular propuestas de valor y gestionar relaciones con el cliente, aportando al logro de los objetivos organizacionales en el sector de servicios de alojamiento.
       .col-lg-3.col-md-8
         figure
-          img(src="@/assets/curso/intro/img02.png" alt="alt")
+          img(src="@/assets/curso/intro/img02.png" alt="")
 
       
 

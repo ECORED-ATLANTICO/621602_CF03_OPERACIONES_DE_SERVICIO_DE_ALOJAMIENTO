@@ -118,7 +118,7 @@
         .tarjeta.row.justify-content-center.align-items-center.mb-0.p-2
           .row.justify-content-center.align-items-center
             .col-lg-3.col-md-8.mb-4.mb-lg-0
-              img(src='@/assets/curso/tema5/img12.png', alt='Texto alternativo')
+              img(src='@/assets/curso/tema5/img12.png', alt='')
             .col-lg-9.col-md-12
               p.mb-3 Ciclo de una cotización
               SlyderF(columnas="col-lg-6 col-xl-4 col-md-12 col-sm-12")

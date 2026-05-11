@@ -266,8 +266,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Pirámide de Maslow
-        img.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img24.svg", alt="ALT")
-        img.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img25.svg", alt="ALT")
+        img.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img24.svg", alt="")
+        img.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img25.svg", alt="")
         figcaption <strong>Nota:</strong> SENA, (2026).
       
       .col-lg-6.col-md-12.order-1.order-lg-2.mb-4.mb-lg-0

@@ -14,7 +14,7 @@
         .bg-fondo-8.px-lg-5.py-lg-4.px-4.py-3.br-15
           p.mb-0.ms-lg-5.ms-0 Una negociación efectiva no se basa únicamente en lograr un acuerdo, sino en construir relaciones de confianza, generar valor y asegurar la satisfacción del cliente sin afectar los intereses del establecimiento. Para ello, es necesario desarrollar habilidades comunicativas, capacidad de análisis y estrategias que permitan manejar diferentes situaciones de manera adecuada.
       .col-lg-3.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
-        img(src='@/assets/curso/tema4/img02.png', alt='Texto alternativo')
+        img(src='@/assets/curso/tema4/img02.png', alt='')
 
     separador
     
@@ -68,7 +68,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2.col-md-8.mb-4.mb-lg-0
         figure
-          img(src="@/assets/curso/tema4/img04.svg")
+          img(src="@/assets/curso/tema4/img04.png")
       .col-lg-10.col-md-12
         p.mb-3 El proceso de negociación se desarrolla a través de una serie de etapas que permiten estructurar la interacción entre las partes y facilitar el logro de acuerdos. Cada fase cumple una función específica y contribuye a que la negociación se lleve a cabo de manera organizada y efectiva.
         p.mb-0 En primer lugar, se encuentra la preparación, considerada una de las etapas más importantes. En esta fase se identifican los aspectos que serán objeto de negociación, se definen los objetivos y se establece la estrategia a seguir. Asimismo, se analizan las posibles concesiones, es decir, hasta qué punto se está dispuesto a ceder, y se determinan los intereses propios y los del cliente. Una adecuada preparación permite anticipar escenarios y tomar decisiones más acertadas durante el proceso.

@@ -21,7 +21,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2.col-md-6.mb-4.mb-lg-0
-        img(src='@/assets/curso/tema6/img02.svg', alt='Texto alternativo')
+        img(src='@/assets/curso/tema6/img02.svg', alt='')
 
       .col-lg-10
         p.mb-3 La venta es la acción mediante la cual se ofrece y se intercambia un bien o servicio a cambio de un valor económico. En el sector turístico, este proceso va más allá de la simple transacción, ya que implica comprender las necesidades del cliente, asesorarlo y ofrecer soluciones que generen valor y satisfacción.
@@ -39,13 +39,13 @@
 
         .row.align-items-center
           .col-lg-auto.d-none.d-lg-block
-            img(src='@/assets/curso/tema6/img04.svg', alt='Texto alternativo')
+            img(src='@/assets/curso/tema6/img04.svg', alt='')
           .col-lg-9
             p.mb-3 El proceso de ventas retoma las fases de la negociación, iniciando con la preparación del servicio a ofrecer, el acercamiento al cliente, la presentación del producto, la argumentación, el manejo de objeciones y el cierre. 
             p.mb-0 Dentro de este proceso, existen diversas técnicas que facilitan la efectividad de la venta:
 
       .col-lg-3.col-md-6.mb-4.mb-lg-0.order-1.order-lg-2
-        img(src='@/assets/curso/tema6/img05.png', alt='Texto alternativo')
+        img(src='@/assets/curso/tema6/img05.png', alt='')
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -71,7 +71,7 @@
         .tarjeta.row.justify-content-center.align-items-center.mb-0.p-2
           .row.justify-content-center.align-items-center
             .col-lg-3.col-md-8.mb-4.mb-lg-0.p-0
-              img(src='@/assets/curso/tema6/img07.png', alt='Texto alternativo')
+              img(src='@/assets/curso/tema6/img07.png', alt='')
             .col-lg-9.col-md-12
               p.mb-3 Se basa en el uso de preguntas estratégicas para comprender al cliente y orientar la venta:
               SlyderF(columnas="col-lg-4 col-xl-4 col-md-6 col-sm-12")
@@ -164,7 +164,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-md-8.mb-4.mb-lg-0
-        img(src='@/assets/curso/tema6/img14.png', alt='Texto alternativo')
+        img(src='@/assets/curso/tema6/img14.png', alt='')
       .col-lg-9
         p.mb-3 Durante el proceso de venta, es común que el cliente presente objeciones, expresadas a través de dudas, comentarios o negativas como el “no” o el “pero”. Estas no deben interpretarse como rechazo definitivo, sino como una oportunidad para brindar mayor información y generar confianza.
         p.mb-0 El vendedor debe estar preparado para responder de manera clara y segura, apoyándose en el conocimiento del servicio y en habilidades comunicativas que le permitan transmitir confianza y credibilidad, demostrando que el servicio cumple con las expectativas del cliente.
