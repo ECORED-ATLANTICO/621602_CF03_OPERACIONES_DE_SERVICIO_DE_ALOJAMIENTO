@@ -7,7 +7,7 @@
         span 1
       h1 Usuarios de servicios turísticos
   
-    .container
+    .container(data-aos="fade-right")
       .row.justify-content-center.align-items-center.mb-5.bg-color-1
         .col-lg-7.p-4
           p.mb-0   Los usuarios de servicios turísticos son las personas que hacen uso de los establecimientos, instalaciones y recursos del sector, así como de los bienes y servicios ofrecidos por empresas y profesionales de la actividad turística. Su participación constituye un elemento central en la dinámica del sistema turístico, ya que orienta la prestación del servicio y condiciona la oferta en función de sus necesidades, expectativas y comportamientos de consumo.
@@ -15,7 +15,7 @@
           img(src="@/assets/curso/tema1/img01.png")
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-3.col-md-8.mb-4.mb-lg-0
         img(src="@/assets/curso/tema1/img02.png")
       .col-lg-9.col-md-12
@@ -27,12 +27,12 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.1 Tipos
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-11.col-md-12
         p.mb-0 Los usuarios de servicios turísticos pueden clasificarse de acuerdo con sus motivaciones, comportamientos y formas de interacción con la experiencia de viaje. Entre los principales tipos se encuentran los clientes, turistas, viajeros y pasajeros, cada uno con características particulares que inciden en la forma en que demandan y utilizan los servicios.
         
         
-    .row.mb-5.justify-content-center.align-items-center
+    .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-12
         TabsA.color-acento-botones()
           .tarjeta.color-acento-botones--borde.p-4(titulo="Cliente")
@@ -63,15 +63,15 @@
               .col-lg-5.col-md-8
                 img(src="@/assets/curso/tema1/img06.png")
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-11.col-md-12
         p.mb-0 En síntesis, una misma persona puede asumir distintos roles según el contexto y el momento del viaje, lo que evidencia la importancia de comprender estos perfiles para adaptar la prestación del servicio a sus necesidades y expectativas.
 
-    .row.align-items-center.mb-5
+    .row.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8.col-md-12
         p.mb-0 En Colombia existe un marco normativo que regula a los usuarios de servicios turísticos. La siguiente tabla resume dicho Marco normativo, destaca aspecto relevantes y describe la relación con dichos usuarios: 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.color-acento-contenido
           h5 
@@ -127,7 +127,7 @@
 
     .row.justify-content-center.mb-0
       .col-12.col-lg-10.mb-0.col-md-12.bg-color-1-degrade.p-4.br-15
-        .row.justify-content-center.align-items-center
+        .row.justify-content-center.align-items-center(data-aos="fade-right")
           .col-lg-2.mb-4.mb-lg-0
             figure
               img(src="@/assets/curso/tema1/img07.svg", class="img-fluid", style="max-width: 100px").mx-auto
@@ -156,7 +156,7 @@
       h2 1.2 Características
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-3.col-md-8.mb-4.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/img08.png",).mx-auto
@@ -165,7 +165,7 @@
         .bg-fondo-1.px-lg-5.py-lg-4.px-4.py-3.br-15
           p.mb-0.ms-lg-5.ms-0 Los usuarios de servicios turísticos presentan características particulares que influyen en su comportamiento y en la forma en que interactúan con la oferta del sector. En términos generales, una gran parte de los viajeros proviene de entornos urbanos y busca, durante sus periodos de descanso, alejarse de la rutina cotidiana. Este desplazamiento responde a diversas motivaciones, entre las que se destacan el interés cultural, el cuidado de la salud, el deseo de cambio, las compras, el descanso, la práctica de actividades recreativas o deportivas y la búsqueda de experiencias significativas.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .bloque-texto-g.bloque-texto-g--inverso.bg-color-27.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -174,7 +174,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Durante el viaje, el usuario suele experimentar una modificación en su conducta habitual, sin que ello implique un cambio en su personalidad. La experiencia turística despierta la curiosidad, incrementa la sensibilidad y amplía la disposición para interactuar con nuevos entornos, culturas y formas de vida. Esta apertura favorece una mayor receptividad frente a las experiencias ofrecidas, lo que incide directamente en la percepción del servicio.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         p.mb-3 En este contexto, la diversidad de motivaciones y expectativas hace necesario que la oferta turística sea flexible y variada. La promoción de los servicios resulta más efectiva cuando presenta alternativas que responden a diferentes intereses dentro de una misma experiencia de viaje, permitiendo al usuario elegir opciones acordes con sus preferencias y necesidades.
         p.mb-0 Las características habituales de los usuarios turísticos más comunes son:
@@ -182,11 +182,11 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-md-8.mb-lg-0.mb-4
+      .col-lg-3.col-md-8.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src="@/assets/curso/tema1/img11.png",).mx-auto
       
-      .col-lg-9.col-md-12
+      .col-lg-9.col-md-12(data-aos="fade-left")
         SlyderF(columnas="col-lg-6 col-xl-6")
           .tarjeta.bg-fondo-2.p-4
             .row.justify-content-center.mb-3
@@ -232,7 +232,7 @@
 
           
     .bg-full-width.bg-fondo-3.px-5.py-4.mb-3
-      .container
+      .container(data-aos="fade-right")
         .tarjeta.tarjeta--blanca.row.justify-content-center.align-items-center.mb-0.p-4
           .col-lg-9.order-2.order-lg-1
             h4.mb-3 Ejemplo aplicado de transformación del comportamiento durante la experiencia turística
@@ -253,7 +253,7 @@
       h2 1.3 Teoría de las necesidades
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8.mb-4.mb-lg-0
         p.mb-3 La teoría de las necesidades, propuesta por Abraham H. Maslow (1943), plantea que el comportamiento humano está motivado por la búsqueda constante de satisfacción de necesidades de carácter fisiológico, psicológico y social. Este autor organizó dichas necesidades en una estructura jerárquica, en la cual las de nivel inferior deben satisfacerse antes de que emerjan las de nivel superior. En este sentido, a medida que una necesidad es cubierta, pierde fuerza motivacional y da paso a nuevas necesidades más complejas.
         p.mb-0 Esta jerarquía se representa comúnmente a través de una pirámide que clasifica las necesidades en cinco niveles.
@@ -261,7 +261,7 @@
         figure
           img(src="@/assets/curso/tema1/img23.png", alt="").img-fluid
           
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.col-md-12.order-2.order-lg-1
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
@@ -270,7 +270,7 @@
         img.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img25.svg", alt="")
         figcaption <strong>Nota:</strong> SENA, (2026).
       
-      .col-lg-6.col-md-12.order-1.order-lg-2.mb-4.mb-lg-0
+      .col-lg-6.col-md-12.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-right")
         p.mb-3 En la base se encuentran las necesidades fisiológicas, esenciales para la supervivencia, como la alimentación, el descanso y la salud. Le siguen las necesidades de seguridad, relacionadas con la estabilidad física, económica y emocional. En un nivel superior se ubican las necesidades sociales, que incluyen la pertenencia, el afecto y las relaciones interpersonales.
         .row.align-items-center
           .col-lg-auto.d-none.d-lg-flex
@@ -279,7 +279,7 @@
             p.mb-0 Posteriormente, se encuentran las necesidades de estima o reconocimiento, vinculadas con la autoestima, la confianza, la independencia y el logro personal. En la cima de la pirámide están las necesidades de autorrealización, que hacen referencia al desarrollo pleno del potencial humano y a la búsqueda de metas personales significativas.
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
         .bloque-texto-g.bloque-texto-g--inverso.bg-color-2.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -289,7 +289,7 @@
             p.mb-0 Desde la perspectiva del #[i marketing] turístico, esta teoría permite comprender qué motiva a los usuarios a adquirir un servicio. En este contexto, Philip Kotler (1983) define las necesidades como una sensación de carencia, ya sea de tipo fisiológico o psicológico. A partir de ellas surgen los deseos, que representan la forma en que una persona decide satisfacer una necesidad, influenciados por factores culturales, sociales y personales. Cuando estos deseos se respaldan con capacidad adquisitiva, se convierten en demanda.
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-2.col-md-8.mb-4.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/img28.png",).mx-auto
@@ -299,7 +299,7 @@
 
 
     .row.justify-content-center.mb-5
-      .col-12.col-lg-10.mb-0.col-md-12
+      .col-12.col-lg-10.mb-0.col-md-12(data-aos="fade-right")
         .cita-decorada
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-4.p-3.bg-color-1-degrade.br-15
             .row.justify-content-center.align-items-center
@@ -325,7 +325,7 @@
         p.banner-text En la prestación de servicios de alojamiento, es frecuente que los usuarios presenten requerimientos o solicitudes especiales que responden a sus necesidades particulares, expectativas o condiciones específicas de viaje. En este contexto, el personal del establecimiento cumple un papel fundamental, ya que su capacidad de respuesta y toma de decisiones incide directamente en la satisfacción del huésped y en la calidad del servicio ofrecido.
 
 
-    .row.justify-content-center.mb-5.align-items-center
+    .row.justify-content-center.mb-5.align-items-center(data-aos="fade-right")
       .col-lg-2.col-md-6.mb-4.mb-lg-0
         img(src="@/assets/curso/tema1/img33.png",).img-fluid
       .col-lg-10
@@ -339,7 +339,7 @@
           .col-lg-auto.d-none.d-lg-flex
             img(src="@/assets/curso/tema1/img34.svg", class="img-fluid")
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 2.
@@ -390,7 +390,7 @@
                 td Operaciones.
                 td Cumplimiento de normativas.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-10.mb-0.col-md-12
         .cita-decorada
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-4.p-3.bg-color-1-degrade.br-15
@@ -415,7 +415,7 @@
         p.mb-0 Algunos factores que influyen en la decisión de la compra turística son los siguientes:
 
 
-    .row.mb-5.justify-content-center.align-items-center
+    .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8.mb-4.mb-lg-0
         TabsA.color-acento-botones()
           .tarjeta.color-acento-botones--borde.p-4(titulo="Motivaciones personales")
@@ -454,7 +454,7 @@
 
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12.col-md-12
         SlyderF(columnas="col-lg-6 col-xl-4")
           .tarjeta.bg-fondo-2.p-4
@@ -498,7 +498,7 @@
             p.mb-0.text-center Ejemplo en turismo: reservas en línea y #[i apps] de viaje.
 
 
-    .row.justify-content-center.mb-5.align-items-center
+    .row.justify-content-center.mb-5.align-items-center(data-aos="fade-right")
       .col-lg-3.col-md-6.mb-4.mb-lg-0
         img(src="@/assets/curso/tema1/img46.png",).img-fluid
       .col-lg-9
@@ -521,7 +521,7 @@
     #t_1_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.6 Hábitos y tendencias de consumo
     
-    .container
+    .container(data-aos="fade-right")
       .row.justify-content-center.align-items-center.mb-5.bg-color-9
         .col-lg-7.p-4.order-2.order-lg-1
           p.mb-0 En la industria hotelera, comprender los hábitos y tendencias de consumo de los usuarios turísticos es fundamental para ofrecer servicios pertinentes y competitivos. El objetivo principal de los establecimientos de alojamiento es identificar las expectativas y necesidades de los clientes, no solo para satisfacerlas, sino también para superarlas. Sin embargo, estas expectativas no son estáticas, sino que evolucionan constantemente, lo que obliga a las empresas a analizar de manera continua el comportamiento del consumidor.
@@ -529,7 +529,7 @@
           img(src="@/assets/curso/tema1/img48.png")
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-3.col-md-6.mb-4.mb-lg-0
         img(src="@/assets/curso/tema1/img49.png")
       .col-lg-9
@@ -542,7 +542,7 @@
     
 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 3.
@@ -574,7 +574,7 @@
                 td Enfoque en deseos y motivaciones.
                 td Los servicios se diseñan según intereses y experiencias buscadas, más que por características demográficas del cliente.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-10.mb-0.col-md-12
         .cita-decorada
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-4.p-3.bg-color-1-degrade.br-15
@@ -605,7 +605,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
-        .bg-fondo-5.px-lg-5.py-lg-4.px-4.py-3.br-15
+        .bg-fondo-5.px-lg-5.py-lg-4.px-4.py-3.br-15(data-aos="fade-right")
           .row.align-items-center
             .col-lg-auto.d-none.d-lg-block
               figure
@@ -620,10 +620,10 @@
 
     .bg-full-width.bg-fondo-3.tarjeta.mb-5
       .px-1.py-4.py-md-4.p-lg-4.px-lg-2
-        SlyderA(tipo="b").bg-color-white.p-0.p-lg-4.tarjeta
+        SlyderA(tipo="b").bg-color-white.p-0.p-lg-4.tarjeta(data-aos="fade-right")
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-9.mb-4.mb-lg-0.mb-3.mb-lg-0
-              h4.mb-3(data-aos="fade-right") Caso práctico: influencia cultural en la experiencia del servicio
+              h4.mb-3 Caso práctico: influencia cultural en la experiencia del servicio
               p.mb-3 Un hotel en Cartagena recibe a dos huéspedes internacionales: Anna, proveniente de Alemania, y Carlos, de México. Ambos llegan al mismo establecimiento con fines turísticos, pero sus expectativas y comportamientos durante la estadía son diferentes.
               
               .row.align-items-center

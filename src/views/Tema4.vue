@@ -7,7 +7,7 @@
         span 4
       h1 Negociación
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-9.order-2.order-lg-1
         p.mb-3 La negociación es un proceso fundamental en la interacción entre el cliente y el prestador de servicios, ya que permite llegar a acuerdos que satisfagan las necesidades de ambas partes. En el sector turístico, la negociación se presenta en múltiples situaciones, como la definición de tarifas, la gestión de solicitudes especiales, la resolución de conflictos o la prestación de servicios personalizados.
     
@@ -22,7 +22,7 @@
       h2 4.1 Tipos
 
 
-    .row.align-items-center.justify-content-center.mb-5
+    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-12.mb-4
         p.mb-0 Entre los principales tipos de negociación se destacan:
 
@@ -41,12 +41,12 @@
             p.ms-5 Ocurre cuando una de las partes cede en ciertos aspectos con el fin de preservar la relación o evitar un conflicto mayor. En el contexto turístico, puede manifestarse cuando el establecimiento flexibiliza una política o condición para satisfacer a un cliente, especialmente si se trata de un usuario frecuente o una situación particular.
       
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10.col-md-12
+      .col-lg-10.col-md-12(data-aos="fade-right")
         .cajon.bg-color-c3.p-4
           p.mb-0 Cada tipo de negociación responde a un contexto diferente, por lo que el personal debe evaluar la situación y aplicar el enfoque más adecuado, equilibrando los intereses del cliente con los objetivos del establecimiento.
 
     .row.justify-content-center.mb-5
-      .col-12.col-lg-10.mb-0.col-md-12
+      .col-12.col-lg-10.mb-0.col-md-12(data-aos="fade-right")
         .cita-decorada
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-4.p-3.bg-color-1-degrade.br-15
             .row.justify-content-center.align-items-center
@@ -75,7 +75,7 @@
 
 
     .container
-      .row.justify-content-center.align-items-center.mb-5.bg-color-1
+      .row.justify-content-center.align-items-center.mb-5.bg-color-1(data-aos="fade-right")
         .col-lg-7.p-4.order-2.order-lg-1
           p.mb-0 Posteriormente, se desarrolla la etapa de desarrollo o negociación propiamente dicha, en la cual se establece el diálogo entre las partes. En este momento se intercambian argumentos, se plantean propuestas y se analizan alternativas que permitan satisfacer las necesidades tanto del cliente como del establecimiento. La comunicación efectiva, la escucha activa y la empatía son fundamentales en esta fase, ya que permiten comprender la oferta y la demanda, identificar oportunidades y construir soluciones viables.
         .col-lg-5.p-0.order-1.order-lg-2
@@ -102,7 +102,7 @@
         p.banner-text Las técnicas de negociación son herramientas que facilitan la interacción entre las partes y permiten alcanzar acuerdos de manera efectiva. Su aplicación en el sector turístico es fundamental, ya que contribuye a manejar diferentes situaciones, desde la atención de solicitudes hasta la resolución de conflictos, siempre buscando la satisfacción del cliente y el cumplimiento de los objetivos del establecimiento.
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10.col-md-12.order-2.order-lg-1
         p.mb-3 Entre las técnicas más relevantes se destacan la escucha activa, que permite comprender realmente las necesidades del cliente; la empatía, que facilita ponerse en su lugar y generar un ambiente de confianza; y la argumentación, que consiste en presentar de manera clara y coherente las razones que sustentan una propuesta. Estas técnicas favorecen una comunicación fluida y reducen la posibilidad de malentendidos.
         .row.align-items-center
@@ -114,7 +114,7 @@
         img(src="@/assets/curso/tema4/img09.svg")
 
     .row.justify-content-center.mb-5
-      .col-12.col-lg-10.mb-0.col-md-12
+      .col-12.col-lg-10.mb-0.col-md-12(data-aos="fade-right")
         .cita-decorada
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-4.p-3.bg-color-1-degrade.br-15
             .row.justify-content-center.align-items-center
@@ -129,11 +129,11 @@
 
 
     .bg-full-width.bg-fondo-3.tarjeta.mb-5
-      .px-1.py-4.py-md-4.p-lg-4.px-lg-2
+      .px-1.py-4.py-md-4.p-lg-4.px-lg-2(data-aos="fade-right")
         SlyderA(tipo="b").bg-color-white.p-0.p-lg-4.tarjeta
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-8.mb-4.mb-lg-0.mb-3.mb-lg-0
-              h4.mb-3(data-aos="fade-right") Caso práctico: negociación de tarifas y servicios
+              h4.mb-3Caso práctico: negociación de tarifas y servicios
               p.mb-3 Un cliente corporativo contacta a un hotel en Bogotá para reservar alojamiento para un grupo de 15 personas durante tres días. El cliente solicita una tarifa especial por volumen, inclusión de desayuno y uso de una sala de reuniones sin costo adicional.
               
               .row.align-items-center

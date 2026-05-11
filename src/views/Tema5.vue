@@ -8,7 +8,7 @@
       h1 Cotización
 
   
-    .bloque-texto-g.bloque-texto-g--inverso.bg-color-5.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.bloque-texto-g--inverso.bg-color-5.p-3.p-sm-4.p-md-5(data-aos="fade-right")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema5/img01.png')})`}"
       )
@@ -21,7 +21,7 @@
       h2 5.1 Definición
 
     .row.mb-5.justify-content-center
-      .col-lg-9.order-2.order-lg-1
+      .col-lg-9.order-2.order-lg-1(data-aos="fade-right")
         p.mb-3 La cotización es el proceso mediante el cual se presenta al cliente una propuesta formal de servicios, especificando condiciones, características y costos asociados. En el contexto turístico, constituye una herramienta clave para orientar la decisión de compra, ya que permite al cliente conocer las opciones disponibles y evaluar su conveniencia según sus necesidades y presupuesto.
         .cajon.bg-color-c3.p-4
           p.mb-0 Una cotización bien elaborada no solo informa precios, sino que comunica valor, claridad y profesionalismo, influyendo directamente en la percepción del servicio y en la probabilidad de cierre de la venta.
@@ -38,10 +38,10 @@
 
 
     .row.mb-5
-      .col-lg-5
+      .col-lg-5(data-aos="fade-right")
         p.mb-0 Las cotizaciones pueden variar según el tipo de servicio, el cliente y el canal de atención. Entre las más comunes se encuentran:
 
-    .row.align-items-center.justify-content-center.mb-5
+    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
       .col-md-8.col-lg-3.mb-4.mb-lg-0
         figure
           img(src="@/assets/curso/tema5/img03.png")
@@ -86,7 +86,7 @@
         p.mb-3 El procedimiento de cotización corresponde al conjunto de pasos que se siguen para elaborar y presentar una propuesta de servicios ajustada a las necesidades del cliente. Su correcta ejecución es fundamental, ya que de ella depende la claridad de la información, la percepción del servicio y la posibilidad de concretar la venta.
         p.mb-0 El proceso de cotización debe seguir una estructura clara para garantizar efectividad:
 
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         .bg-fondo-14.px-lg-5.py-lg-4.px-4.py-3.br-15
           .row.align-items-center
             .col-lg-auto.d-none.d-lg-block
@@ -113,7 +113,7 @@
                   i.lista-ul__vineta 
                   | Realizar seguimiento para resolver dudas o ajustar la propuesta.
 
-    .bg-full-width.bg-fondo-7.px-5.py-4.mb-5
+    .bg-full-width.bg-fondo-7.px-5.py-4.mb-5(data-aos="fade-right")
       .container
         .tarjeta.row.justify-content-center.align-items-center.mb-0.p-2
           .row.justify-content-center.align-items-center

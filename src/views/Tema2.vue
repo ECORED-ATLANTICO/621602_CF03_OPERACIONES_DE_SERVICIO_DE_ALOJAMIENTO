@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-md-8.mb-4.mb-lg-0
         img(src='@/assets/curso/tema2/img01.png', alt='')
-      .col-lg-9.col-md-12
+      .col-lg-9.col-md-12(data-aos="fade-right")
         p.mb-0 El servicio al cliente en el sector turístico constituye un elemento fundamental para la calidad, competitividad y sostenibilidad de los establecimientos de alojamiento. Más allá de la simple prestación de un servicio, implica la capacidad de comprender las necesidades, expectativas y percepciones del usuario para ofrecer experiencias satisfactorias y memorables. En un entorno caracterizado por la diversidad cultural y la alta exigencia del cliente, el servicio se convierte en un factor diferenciador que influye directamente en la fidelización, la reputación y el posicionamiento de las empresas turísticas. En este sentido, su gestión requiere no solo conocimiento técnico, sino también habilidades comunicativas, actitud de servicio y enfoque centrado en el cliente.
 
     separador
@@ -18,7 +18,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1 Concepto
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .bloque-texto-g.bloque-texto-g--inverso.bg-color-21.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -31,7 +31,7 @@
       
     .bg-full-width.bg-fondo-7.px-5.py-4.mb-5
       .container
-        .tarjeta.row.justify-content-center.align-items-center.mb-0.p-2
+        .tarjeta.row.justify-content-center.align-items-center.mb-0.p-2(data-aos="fade-right")
           .row.justify-content-center.align-items-center
             .col-lg-3.col-md-8.mb-4.mb-lg-0
               img(src='@/assets/curso/tema2/img04.png', alt='')
@@ -75,12 +75,12 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="fade-right")
         .cajon.bg-color-c3.p-4
           p.mb-0 Por otro lado, los elementos intangibles del servicio los constituyen los aspectos no físicos relacionados con la experiencia que el cliente vive dentro del establecimiento de turismo. Esto se incluyen aspectos como la comunicación, la eficiencia, la relación y el trato con el cliente y la valoración subjetiva que el turista hace del servicio recibido.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-9.mb-4.mb-lg-0
+      .col-lg-9.mb-4.mb-lg-0(data-aos="fade-right")
         p.mb-3 Es importante diferenciar entre atención al cliente y servicio al cliente. La atención al cliente se refiere al trato directo durante la interacción, el cual debe caracterizarse por la cortesía, rapidez, confiabilidad, empatía y capacidad de respuesta. Por su parte, el servicio al cliente implica una visión más amplia, que integra de manera sistemática y coherente todos los procesos de la organización para garantizar una experiencia satisfactoria. En consecuencia, el servicio no se reduce a la amabilidad, sino que requiere una disposición real para servir con efectividad.
     
         .bg-fondo-8.px-lg-5.py-lg-4.px-4.py-3.br-15
@@ -101,7 +101,7 @@
         p.banner-text Los servicios presentan una serie de características que los diferencian de los bienes materiales y que resultan fundamentales para comprender su naturaleza, especialmente en el sector turístico. Estas características influyen directamente en la forma en que se prestan, se perciben y se evalúan por parte del cliente. <br><br> En la siguiente tabla se destacan las características fundamentales del servicio al cliente en el sector turístico:
     
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 4.
@@ -138,15 +138,15 @@
                 td Una habitación no ocupada en una noche representa una pérdida irrecuperable.
 
 
-    .row.align-items-center.justify-content-center.mb-5
+    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-auto.d-none.d-lg-flex
         img(src="@/assets/curso/tema2/img14.svg").mx-auto
-      .col-lg
+      .col-lg(data-aos="fade-right")
         p.mb-3 Además de las características generales que diferencian los servicios de los bienes, existen una serie de componentes esenciales que determinan la calidad del servicio y su adecuada prestación en el sector turístico. Estos elementos orientan la forma en que el cliente percibe la atención recibida y permiten evaluar el nivel de cumplimiento de sus expectativas.
         p.mb-0 Los componentes básicos del buen servicio son:
 
 
-    .row.align-items-center.justify-content-center.mb-5
+    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-9.mb-3.mb-lg-0
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-23")
           div(titulo="Seguridad:")
@@ -172,7 +172,7 @@
         figure
           img(src="@/assets/curso/tema2/img16.png")
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-3.col-md-6.mb-4.mb-lg-0
         .tarjeta.bg-fondo-2.p-4.h-100
           .row.justify-content-center.mb-3
@@ -215,10 +215,10 @@
       h2 2.3 Tipos
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12
+      .col-12(data-aos="fade-right")
         p.mb-0 En el contexto del servicio turístico, es importante reconocer que cada cliente es único y posee características, necesidades y expectativas particulares. Por esta razón, la atención debe ser individualizada y orientada a brindar experiencias personalizadas. No obstante, existen rasgos comunes que permiten agrupar a los clientes en diferentes categorías, lo que facilita su comprensión y la adaptación del servicio.
              
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
@@ -241,12 +241,12 @@
 
     .container
       .row.justify-content-center.align-items-center.mb-5.bg-color-1
-        .col-lg-7.p-4.order-2.order-lg-1
+        .col-lg-7.p-4.order-2.order-lg-1(data-aos="fade-right")
           p.mb-0 Los estándares de servicio se definen como el conjunto de normas, lineamientos o criterios que establecen los requisitos mínimos para la correcta ejecución de un proceso, con el propósito de garantizar la calidad en la prestación del servicio. Estos estándares orientan de manera precisa el comportamiento esperado del personal y funcionan como referencia para evaluar el desempeño, asegurando coherencia y uniformidad en la atención al cliente.
         .col-lg-5.p-0.order-1.order-lg-2
           img(src="@/assets/curso/tema2/img24.png")
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-3.col-md-8.mb-4.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/img25.png", alt="")
@@ -261,7 +261,7 @@
             .col-lg
               p.mb-0 Para su adecuada gestión, los establecimientos de alojamiento suelen apoyarse en herramientas como los manuales de funciones y procedimientos, así como en formatos y protocolos que estandarizan las actividades del servicio. Estos instrumentos permiten definir claramente las responsabilidades del personal, los tiempos de respuesta y las condiciones bajo las cuales se debe prestar el servicio, asegurando una experiencia consistente y de calidad para el usuario.
  
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 5.
