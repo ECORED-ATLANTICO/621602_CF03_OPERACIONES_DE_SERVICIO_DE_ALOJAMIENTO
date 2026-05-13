@@ -104,7 +104,8 @@
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Tabla 4.
+          h5 
+            b Tabla 4.
           span Características del servicio al cliente en el sector turístico
         .tabla-a.color-acento-contenido 
           table
@@ -147,39 +148,38 @@
 
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
-      .col-lg-9.mb-3.mb-lg-0
+      .col-lg-9.mb-lg-0
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-23")
-          div(titulo="Seguridad:")
+          div(titulo="Seguridad")
             p.ms-5 Garantiza que el servicio se preste sin riesgos, peligros o incertidumbre para el cliente.
             p.ms-5 #[b Aplicaciones:] protocolos claros, información confiable y entornos seguros para el huésped.
-          div(titulo="Credibilidad:")
+          div(titulo="Credibilidad")
             p.ms-5 Implica actuar con honestidad, veracidad y coherencia entre lo que se ofrece y lo que se cumple.
             p.ms-5 #[b Aplicaciones:] evitar promesas falsas y brindar información transparente sobre servicios.
-          div(titulo="Comunicación:")
+          div(titulo="Comunicación")
             p.ms-5 Consiste en transmitir información clara, oportuna y comprensible al cliente.
             p.ms-5 #[b Aplicaciones:] explicar servicios, tarifas y procesos de manera sencilla.
-          div(titulo="Comprensión del cliente:")
+          div(titulo="Comprensión del cliente")
             p.ms-5 Capacidad de identificar y entender las necesidades, expectativas y preferencias del usuario.
             p.ms-5 #[b Aplicaciones:] personalizar el servicio según lo que el cliente desea y requiere.
-          div(titulo="Accesibilidad:")
+          div(titulo="Accesibilidad")
             p.ms-5 Facilidad de contacto entre el cliente y la empresa a través de diversos canales.
             p.ms-5 #[b Aplicaciones:] líneas de atención, canales digitales y puntos físicos de información.
-          div(titulo="Cortesía:")
+          div(titulo="Cortesía")
             p.ms-5 Trato amable, respetuoso y empático hacia el cliente.
             p.ms-5 #[b Aplicaciones:] atención cordial en recepción, restaurante y demás áreas.
           
-      .col-md-6.col-lg-3
+      .col-md-6.col-lg-3.d-none.d-lg-flex
         figure
           img(src="@/assets/curso/tema2/img16.png")
 
-    .row.justify-content-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.mb-3(data-aos="fade-right")
       .col-lg-3.col-md-6.mb-4.mb-lg-0
         .tarjeta.bg-fondo-2.p-4.h-100
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/tema2/img18.svg' alt='', style="width: 100px;").mx-auto
-          h4.text-center #[b Profesionalismo] 
-          p.mb-3.text-center Dominio de conocimientos y habilidades necesarias para prestar el servicio.
+          p.mb-1.text-center #[b Profesionalismo:] dominio de conocimientos y habilidades necesarias para prestar el servicio.
           p.mb-0.text-center Aplicaciones: personal capacitado en procesos, protocolos y atención al cliente.
 
       .col-lg-3.col-md-6.mb-4.mb-lg-0
@@ -187,8 +187,7 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/tema2/img19.svg' alt='', style="width: 100px;").mx-auto
-          h4.text-center #[b Capacidad de respuesta] 
-          p.mb-3.text-center Disposición para atender solicitudes y resolver problemas de manera oportuna.
+          p.mb-1.text-center #[b Capacidad de respuesta:] disposición para atender solicitudes y resolver problemas de manera oportuna.
           p.mb-0.text-center Aplicaciones: responder rápidamente a quejas, solicitudes o inconvenientes.
 
       .col-lg-3.col-md-6.mb-4.mb-lg-0
@@ -196,8 +195,7 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/tema2/img19.svg' alt='', style="width: 100px;").mx-auto
-          h4.text-center #[b Fiabilidad] 
-          p.mb-3.text-center Capacidad de cumplir el servicio de manera consistente y sin errores.
+          p.mb-1.text-center #[b Fiabilidad:] capacidad de cumplir el servicio de manera consistente y sin errores.
           p.mb-0.text-center Aplicaciones: cumplimiento de reservas, horarios y condiciones ofrecidas.
 
       .col-lg-3.col-md-6.mb-4.mb-lg-0
@@ -205,8 +203,7 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/tema2/img20.svg' alt='', style="width: 100px;").mx-auto
-          h4.text-center #[b Elementos tangibles] 
-          p.mb-3.text-center Condiciones físicas que respaldan el servicio (instalaciones, equipos, presentación).
+          p.mb-1.text-center #[b Elementos tangibles:] condiciones físicas que respaldan el servicio (instalaciones, equipos, presentación).
           p.mb-0.text-center Aplicaciones: infraestructura adecuada, limpieza, uniformes y material informativo.
 
     separador
@@ -221,10 +218,10 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 2.
+          h5.text-bold Figura 2.
           span Criterios de clasificación de los tipos de clientes
         img(data-aos="fade-down", src="@/assets/curso/tema2/img22.svg", alt="La figura 2 describe la clasificación de los tipos de clientes a partir de diversos criterios.").mx-auto
-        figcaption <strong>Nota:</strong> SENA, (2026).
+        figcaption Nota.  SENA, (2026).
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2.col-md-8.order-2.order-lg-1
@@ -264,7 +261,8 @@
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Tabla 5.
+          h5 
+            b Tabla 5.
           span Ejemplos de estándares de servicio en hotelería
         .tabla-a.color-acento-contenido 
           table

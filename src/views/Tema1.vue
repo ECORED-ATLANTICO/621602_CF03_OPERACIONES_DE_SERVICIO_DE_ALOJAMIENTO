@@ -16,9 +16,9 @@
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-3.col-md-8.mb-4.mb-lg-0
+      .col-lg-3.col-md-8.order-2.order-lg-1
         img(src="@/assets/curso/tema1/img02.png")
-      .col-lg-9.col-md-12
+      .col-lg-9.col-md-12.order-1.order-lg-2.mb-4.mb-lg-0
         p.mb-3 En este sentido, los usuarios no solo interactúan con los servicios, sino que también se encuentran amparados por un marco normativo que regula sus derechos y deberes. Estos aspectos garantizan condiciones adecuadas de calidad, seguridad y transparencia en la prestación del servicio, al tiempo que promueven una relación equilibrada entre el cliente y los prestadores turísticos. Comprender el rol del usuario resulta fundamental para diseñar experiencias de servicio pertinentes y orientadas a la satisfacción del cliente.
         p.mb-0 En el contexto de la prestación de servicios turísticos, resulta fundamental reconocer que la relación entre el usuario y el prestador se encuentra regulada por un marco normativo que establece derechos y deberes para ambas partes. Este conjunto de disposiciones busca garantizar condiciones de calidad, seguridad, información veraz y protección al consumidor, al tiempo que promueve prácticas responsables por parte del usuario. En consecuencia, el conocimiento de este marco legal permite fortalecer una prestación del servicio más equitativa, transparente y orientada al cumplimiento de estándares en el sector turístico.
 
@@ -136,7 +136,7 @@
             .row.justify-content-center.mb-4
               .col-12.col-lg-9.mb-4.mb-lg-0
                 p.mb-0 Para ampliar sus conocimientos sobre la diferencia entre turista y viajero, lo invitamos a leer el siguiente artículo:
-              .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
+              .col-lg-3.col-md-5.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.entornoturistico.com/diferencias-entre-un-turista-y-un-viajero/" target="_blank")
                   span Abrir enlace
                   i.fas.fa-link
@@ -144,7 +144,7 @@
             .row.justify-content-center.align-items-center
               .col-12.col-lg-9.mb-4.mb-lg-0
                 p.mb-0 Asimismo, para profundizar su conocimiento sobre los tipos de turismo, lo invitamos a consultar la página web de la experta Mabel Cajal:
-              .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
+              .col-lg-3.col-md-5.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.mabelcajal.com/tipos-de-turismo/" target="_blank")
                   span Abrir enlace
                   i.fas.fa-link
@@ -264,11 +264,11 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-6.col-md-12.order-2.order-lg-1
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 1.
+          h5.text-bold Figura 1.
           span Pirámide de Maslow
         img.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img24.svg", alt="")
         img.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img25.svg", alt="")
-        figcaption <strong>Nota:</strong> SENA, (2026).
+        figcaption Nota. SENA, (2026).
       
       .col-lg-6.col-md-12.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-right")
         p.mb-3 En la base se encuentran las necesidades fisiológicas, esenciales para la supervivencia, como la alimentación, el descanso y la salud. Le siguen las necesidades de seguridad, relacionadas con la estabilidad física, económica y emocional. En un nivel superior se ubican las necesidades sociales, que incluyen la pertenencia, el afecto y las relaciones interpersonales.
@@ -342,7 +342,8 @@
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Tabla 2.
+          h5 
+            b Tabla 2.
           span Requerimientos comunes en servicios de alojamiento
         .tabla-a.color-acento-contenido 
           table
@@ -418,31 +419,31 @@
     .row.mb-5.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8.mb-4.mb-lg-0
         TabsA.color-acento-botones()
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Motivaciones personales")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Motivaciones personales")
             .row.justify-content-center.align-items-center
               .col-lg-8.col-md-12.order-2.order-lg-1
                 p.mb-0 Son los intereses, deseos o razones individuales para viajar.<br><br><b>Ejemplo en turismo:</b> viajar por descanso, aventura o cultura.
               .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
                 img(src="@/assets/curso/tema1/img35.svg", style="max-width: 100px !important").mx-auto
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Nivel socioeconómico")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Nivel socioeconómico")
             .row.justify-content-center.align-items-center
               .col-lg-8.col-md-12.order-2.order-lg-1
                 p.mb-0 Es la capacidad económica que condiciona el tipo de servicio elegido.<br><br><b>Ejemplo en turismo:</b> elección entre hotel económico o de lujo.
               .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
                 img(src="@/assets/curso/tema1/img36.svg", style="max-width: 100px !important").mx-auto
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Tiempo disponible")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Tiempo disponible")
             .row.justify-content-center.align-items-center  
               .col-lg-8.col-md-12.order-2.order-lg-1
                 p.mb-0 Es la cantidad de tiempo libre que tiene el turista para realizar el viaje.<br><br><b>Ejemplo el turismo:</b> viajes cortos de fin de semana versus vacaciones largas.
               .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
                 img(src="@/assets/curso/tema1/img37.svg", style="max-width: 100px !important").mx-auto
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Influencia cultural y social")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Influencia cultural y social")
             .row.justify-content-center.align-items-center
               .col-lg-8.col-md-12.order-2.order-lg-1
                 p.mb-0 Son las costumbres, entorno social y recomendaciones que influyen directamente en la decisión del cliente.<br><br><b>Ejemplo en turismo:</b> viajar a destinos populares entre amigos o viajar a donde la familia.
               .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
                 img(src="@/assets/curso/tema1/img38.svg", style="max-width: 100px !important").mx-auto
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Acceso a la información")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Acceso a la información")
             .row.justify-content-center.align-items-center
               .col-lg-8.col-md-12.order-2.order-lg-1
                 p.mb-0 Se resume en el uso de Internet, redes sociales y plataformas digitales para validar o confirmar la decisión de compra.<br><br><b>Ejemplo en turismo:</b> consultar reseñas en páginas como #[i Booking] o #[i TripAdvisor].
@@ -499,9 +500,9 @@
 
 
     .row.justify-content-center.mb-5.align-items-center(data-aos="fade-right")
-      .col-lg-3.col-md-6.mb-4.mb-lg-0
+      .col-lg-3.col-md-6.order-2.order-lg-1
         img(src="@/assets/curso/tema1/img46.png",).img-fluid
-      .col-lg-9
+      .col-lg-9.order-1.order-lg-2.mb-4.mb-lg-0
         p.mb-3 Asimismo, elementos como el acceso a la tecnología, la información disponible y las condiciones del entorno influyen en la forma en que el usuario evalúa las opciones y toma decisiones. La experiencia turística se concibe como un espacio de satisfacción de necesidades y expectativas, donde el usuario anticipa beneficios concretos antes de realizar la compra. De acuerdo con Ford (2001), los turistas construyen expectativas sobre lo que el servicio puede ofrecerles, las cuales serán determinantes en su nivel de satisfacción.
         .row.justify-content-center.align-items-center
           .col-lg
@@ -545,7 +546,8 @@
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Tabla 3.
+          h5 
+            b Tabla 3.
           span Tendencias actuales en la industria hotelera
         .tabla-a.color-acento-contenido 
           table

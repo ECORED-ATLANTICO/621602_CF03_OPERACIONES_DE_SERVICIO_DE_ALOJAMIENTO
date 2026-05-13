@@ -51,10 +51,10 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 4.
+          h5.text-bold Figura 4.
           span Modelo AIDA
         img(data-aos="fade-down", src="@/assets/curso/tema6/img06.svg", alt="La figura 4 ilustra el modelo AIDA, técnica de mercadeo que describe las 4 etapas por las que pasa el consumidor antes de comprar un producto.").mx-auto
-        figcaption <strong>Nota:</strong> SENA, (2026).
+        figcaption Nota.  SENA, (2026).
     
 
     p.mb-4 Existen otras técnicas de venta entre las que se destacan las siguientes:

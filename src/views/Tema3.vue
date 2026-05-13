@@ -42,10 +42,10 @@
 
       .col-lg-5.col-md-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 3.
+          h5.text-bold Figura 3.
           span Elementos de la comunicación
         img(data-aos="fade-down", src="@/assets/curso/tema3/img06.svg", alt="La figura 3 describe los elementos que componen el proceso comunicativo.").mx-auto
-        figcaption <strong>Nota:</strong> SENA, (2026).
+        figcaption Nota.  SENA, (2026).
     
     separador
 
@@ -368,7 +368,8 @@
     .row.justify-content-center.mb-5
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Tabla 6.
+          h5 
+            b Tabla 6.
           span Tipos de canales de atención
         .tabla-a.color-acento-contenido 
           table
@@ -504,7 +505,8 @@
 
       .col-lg-8.col-md-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Tabla 7.
+          h5 
+            b Tabla 7.
           span Clasificación de la comunicación telemática según interacción
         .tabla-a.color-acento-contenido 
           table
@@ -538,11 +540,18 @@
       .col-lg-12
         p.mb-0 Las habilidades comunicativas son competencias esenciales que permiten establecer interacciones efectivas, comprender al cliente y brindar un servicio de calidad. En el sector turístico, estas habilidades son determinantes para generar confianza, evitar conflictos y fortalecer la experiencia del usuario.
 
+      
+    .container
+      .titulo-con-imagen.mb-5(data-aos="fade-right")
+        .titulo-con-imagen__fondo
+          img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
+          h3.titulo-con-imagen__texto Escucha efectiva
+
     .container
       .row.justify-content-center.mb-5
         .col-lg-4.bg-color-24.col-md-6.mb-4.mb-lg-0.border-15px-izq
           .row.p-4
-            .col-lg-auto.mb-3.ml-auto
+            .col-lg-auto.mb-4.ml-auto
               img(src="@/assets/curso/tema3/img35.svg", style="max-width: 100px").ml-auto
             .col-lg-12.h-100
               p.mb-3.text-bold Claves para una escucha efectiva
@@ -571,7 +580,7 @@
               
         .col-lg-4.bg-color-23.col-md-6.mb-4.mb-lg-0.border-15px-md
           .row.p-4
-            .col-lg-auto.ml-auto
+            .col-lg-auto.mb-2.ml-auto
               img(src="@/assets/curso/tema3/img36.svg", style="max-width: 100px").ml-auto
             .col-lg-12.h-100
               p.mb-3.text-bold Comportamientos adecuados en la interacción
@@ -603,7 +612,7 @@
               
         .col-lg-4.bg-color-5.col-md-6.mb-4.mb-lg-0.border-15px-der
           .row.p-4
-            .col-lg-auto.ml-auto
+            .col-lg-auto.ml-auto.mb-2
               img(src="@/assets/curso/tema3/img37.svg", style="max-width: 100px").ml-auto
             .col-lg-12.h-100
               p.mb-3.text-bold Actitudes que se deben evitar
