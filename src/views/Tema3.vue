@@ -508,27 +508,27 @@
           h5 
             b Tabla 7.
           span Clasificación de la comunicación telemática según interacción
-        .tabla-a.color-acento-contenido 
+        .tabla-a.color-acento-contenido
           table
             caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
-            thead
-              tr
-                th Tipo
-                th Descripción
-                th Ejemplo
-            tbody
-              tr
-                td Unidireccional.
-                td Información en un solo sentido.
-                td Promociones enviadas.
-              tr
-                td Bidireccional.
-                td Intercambio entre cliente y empresa.
-                td Solicitud de reserva.
-              tr
-                td Bidireccional simultánea.
-                td Interacción inmediata.
-                td #[i Chat] en línea.
+            thead.tabla7
+              tr.tabla7
+                th.tabla7 Tipo
+                th.tabla7 Descripción
+                th.tabla7 Ejemplo
+            tbody.tabla7
+              tr.tabla7
+                td.tabla7 Unidireccional.
+                td.tabla7 Información en un solo sentido.
+                td.tabla7 Promociones enviadas.
+              tr.tabla7
+                td.tabla7 Bidireccional.
+                td.tabla7 Intercambio entre cliente y empresa.
+                td.tabla7 Solicitud de reserva.
+              tr.tabla7
+                td.tabla7 Bidireccional simultánea.
+                td.tabla7 Interacción inmediata.
+                td.tabla7 #[i Chat] en línea.
     
 
     separador

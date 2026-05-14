@@ -53,7 +53,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5.text-bold Figura 4.
           span Modelo AIDA
-        img(data-aos="fade-down", src="@/assets/curso/tema6/img06.svg", alt="La figura 4 ilustra el modelo AIDA, técnica de mercadeo que describe las 4 etapas por las que pasa el consumidor antes de comprar un producto.").mx-auto
+        img.d-none.d-lg-block(data-aos="fade-down", src="@/assets/curso/tema6/img06.svg", alt="La figura 4 ilustra el modelo AIDA, técnica de mercadeo que describe las 4 etapas por las que pasa el consumidor antes de comprar un producto.").mx-auto
+        img.d-block.d-lg-none(data-aos="fade-down", src="@/assets/curso/tema6/img06-m.svg", alt="La figura 4 ilustra el modelo AIDA, técnica de mercadeo que describe las 4 etapas por las que pasa el consumidor antes de comprar un producto.").mx-auto
         figcaption Nota.  SENA, (2026).
     
 

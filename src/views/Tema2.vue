@@ -220,7 +220,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5.text-bold Figura 2.
           span Criterios de clasificación de los tipos de clientes
-        img(data-aos="fade-down", src="@/assets/curso/tema2/img22.svg", alt="La figura 2 describe la clasificación de los tipos de clientes a partir de diversos criterios.").mx-auto
+        img.d-none.d-lg-flex(data-aos="fade-down", src="@/assets/curso/tema2/img22.svg", alt="La figura 2 describe la clasificación de los tipos de clientes a partir de diversos criterios.").mx-auto
+        img.d-lg-none(data-aos="fade-down", src="@/assets/curso/tema2/img22-m.svg", alt="La figura 2 describe la clasificación de los tipos de clientes a partir de diversos criterios.").mx-auto
         figcaption Nota.  SENA, (2026).
     
     .row.justify-content-center.align-items-center.mb-5
