@@ -134,7 +134,7 @@
                     .col-8
                       img(src='@/assets/curso/tema5/img14.svg' alt='', style="width: 100px;").mx-auto
                   p.text-center.text-bold Paso 2.
-                  p.text-center Recepción y registro formal de la solicitud (#[i Request for proposal] - #[i RFP]).
+                  p.text-center Recepción y registro formal de la solicitud (#[i Request for proposal] - RFP).
 
                 .tarjeta.bg-white.p-4.h-100
                   .row.justify-content-center.mb-3

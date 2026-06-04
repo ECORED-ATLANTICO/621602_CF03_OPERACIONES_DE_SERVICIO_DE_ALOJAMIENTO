@@ -118,22 +118,22 @@
                 th Ejemplo aplicado en turismo
             tbody
               tr
-                td Intangibilidad.
+                td Intangibilidad
                 td El servicio no puede ser percibido físicamente antes de su consumo; no se puede ver, tocar ni almacenar.
                 td Se debe generar confianza a través de la imagen, reputación y evidencias físicas del servicio.
                 td Un huésped no puede evaluar completamente la experiencia antes de alojarse en un hotel.
               tr
-                td Inseparabilidad.
+                td Inseparabilidad
                 td La producción y el consumo del servicio ocurren de manera simultánea, implicando interacción directa entre cliente y prestador.
                 td El talento humano es clave en la calidad del servicio, ya que la experiencia se genera en el momento de la atención.
                 td La atención en recepción ocurre al mismo tiempo que el cliente la recibe.
               tr
-                td Heterogeneidad.
+                td Heterogeneidad
                 td El servicio es variable y depende de quién lo presta, cuándo y cómo se presta.
                 td Se requieren estándares, protocolos y capacitación para asegurar uniformidad en la prestación.
                 td Diferencias en la atención entre colaboradores o turnos.
               tr
-                td Perecibilidad (caducidad).
+                td Perecibilidad (caducidad)
                 td El servicio no puede almacenarse ni recuperarse si no se consume en el momento.
                 td Es necesario gestionar la capacidad y la demanda de manera eficiente.
                 td Una habitación no ocupada en una noche representa una pérdida irrecuperable.
@@ -220,8 +220,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5.text-bold Figura 2.
           span Criterios de clasificación de los tipos de clientes
-        img.d-none.d-lg-flex(data-aos="fade-down", src="@/assets/curso/tema2/img22.svg", alt="La figura 2 describe la clasificación de los tipos de clientes a partir de diversos criterios.").mx-auto
-        img.d-lg-none(data-aos="fade-down", src="@/assets/curso/tema2/img22-m.svg", alt="La figura 2 describe la clasificación de los tipos de clientes a partir de diversos criterios.").mx-auto
+        img.d-none.d-lg-flex(data-aos="fade-down", src="@/assets/curso/tema2/img22.svg", alt="La figura 2 describe la clasificación de los tipos de clientes a partir de diversos criterios: origen, nacionalidad, idioma, edad, género y actividad económica.").mx-auto
+        img.d-lg-none(data-aos="fade-down", src="@/assets/curso/tema2/img22-m.svg", alt="La figura 2 describe la clasificación de los tipos de clientes a partir de diversos criterios: origen, nacionalidad, idioma, edad, género y actividad económica.").mx-auto
         figcaption Nota.  SENA, (2026).
     
     .row.justify-content-center.align-items-center.mb-5
@@ -276,50 +276,50 @@
                 th Indicador de cumplimiento
             tbody
               tr
-                td Recepción.
-                td Tiempo de atención en #[i check-in].
+                td Recepción
+                td Tiempo de atención en #[i check-in]
                 td El proceso de registro del huésped debe realizarse de manera ágil y organizada.
-                td #[i Check-in] realizado en máximo 5 minutos.
+                td #[i Check-in] realizado en máximo 5 minutos
               tr
-                td Recepción.
-                td Presentación del personal.
+                td Recepción
+                td Presentación del personal
                 td El personal debe mantener una imagen profesional acorde a la política del hotel.
-                td Uniforme limpio, completo y buena presentación personal.
+                td Uniforme limpio, completo y buena presentación personal
               tr
-                td Habitaciones.
-                td Limpieza y acondicionamiento.
+                td Habitaciones
+                td Limpieza y acondicionamiento
                 td Las habitaciones deben entregarse limpias, ordenadas y en óptimas condiciones.
-                td Habitación disponible y lista antes del horario de ingreso.
+                td Habitación disponible y lista antes del horario de ingreso
               tr
-                td Alimentos y bebidas.
-                td Tiempo de servicio.
+                td Alimentos y bebidas
+                td Tiempo de servicio
                 td Los pedidos deben ser entregados en un tiempo adecuado.
-                td Servicio en mesa en máximo 15 - 20 minutos.
+                td Servicio en mesa en máximo 15 - 20 minutos
               tr
-                td Servicio al cliente.
-                td Atención al huésped.
+                td Servicio al cliente
+                td Atención al huésped
                 td El trato debe ser amable, respetuoso y oportuno.
-                td Saludo, contacto visual y disposición de ayuda en cada interacción.
+                td Saludo, contacto visual y disposición de ayuda en cada interacción
               tr
-                td Mantenimiento.
-                td Respuesta a fallas.
+                td Mantenimiento
+                td Respuesta a fallas
                 td Las solicitudes de mantenimiento deben ser atendidas oportunamente.
-                td Solución de incidencias en menos de 30 minutos (según complejidad).
+                td Solución de incidencias en menos de 30 minutos (según complejidad)
               tr
-                td Tecnología.
-                td Conectividad.
+                td Tecnología
+                td Conectividad
                 td El servicio de internet debe ser estable y accesible.
-                td Cobertura #[i wifi] en todas las áreas del hotel.
+                td Cobertura #[i wifi] en todas las áreas del hotel
               tr
-                td Reservas.
-                td Confirmación de reservas.
+                td Reservas
+                td Confirmación de reservas
                 td Toda reserva debe ser confirmada y registrada correctamente.
-                td Confirmación enviada al cliente en menos de 24 horas.
+                td Confirmación enviada al cliente en menos de 24 horas
               tr
-                td Seguridad.
+                td Seguridad
                 td Protocolos de seguridad
                 td El hotel debe garantizar condiciones seguras para huéspedes y personal.
-                td Cumplimiento de protocolos y señalización visible.
+                td Cumplimiento de protocolos y señalización visible
 
     .row.justify-content-center.mb-5
       .col-12.col-lg-10.mb-0.col-md-12
@@ -332,7 +332,7 @@
                 p.mb-0 A continuación, lo invitamos a consultar el siguiente video para profundizar sus conocimientos sobre las técnicas de atención al cliente y recepción hotelera.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Q5QiDRxYVo0" target="_blank")
-                  span Ver video
+                  span Ver enlace
                   i.fas.fa-play-circle
 
 

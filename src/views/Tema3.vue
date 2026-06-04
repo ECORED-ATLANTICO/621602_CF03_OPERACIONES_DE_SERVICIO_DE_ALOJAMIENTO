@@ -44,7 +44,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5.text-bold Figura 3.
           span Elementos de la comunicación
-        img(data-aos="fade-down", src="@/assets/curso/tema3/img06.svg", alt="La figura 3 describe los elementos que componen el proceso comunicativo.").mx-auto
+        img(data-aos="fade-down", src="@/assets/curso/tema3/img06.svg", alt="La figura 3 describe los elementos que componen el proceso comunicativo: Emisor: quien transmite el mensaje. Receptor: quien recibe el mensaje. Mensaje: información que se comunica. Canal: medio por el cual se transmite. Código: lenguaje utilizado. Retroalimentación: respuesta del receptor.").mx-auto
         figcaption Nota.  SENA, (2026).
     
     separador
@@ -96,7 +96,7 @@
                       img(src="@/assets/curso/tema3/img11.svg", style="width: 100px;").mx-auto
                   .col-lg
                     p.mb-2 #[b Comunicación digital:] uso de herramientas tecnológicas y plataformas. 
-                    p.mb-0 Ejemplo: #[i chat] en línea, redes sociales, #[i apps] de reservas.
+                    p.mb-0 Ejemplo: chat en línea, redes sociales, #[i apps] de reservas.
 
               .row.justify-content-center.align-items-center.p-4.p-lg-3                  
                 .row.align-items-center
@@ -184,7 +184,7 @@
                 p.mb-0 A continuación, le compartimos el enlace a un video de consulta que le permitirá afianzar los conocimientos en las técnicas de comunicación para una buena atención al cliente.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=7AtxDGe8UeU" target="_blank")
-                  span Ver video
+                  span Ver enlace
                   i.fas.fa-play-circle
         
     separador
@@ -381,21 +381,21 @@
                 th Ejemplo en turismo
             tbody
               tr
-                td Presencial.
-                td Interacción directa cara a cara.
-                td Recepción del hotel.
+                td Presencial
+                td Interacción directa cara a cara
+                td Recepción del hotel
               tr
-                td Telefónico.
-                td Comunicación por voz sin contacto visual.
-                td Reservas o consultas.
+                td Telefónico
+                td Comunicación por voz sin contacto visual
+                td Reservas o consultas
               tr
-                td Digital / telemático.
-                td Uso de herramientas tecnológicas.
-                td Correos, #[i chat], redes sociales.
+                td Digital / telemático
+                td Uso de herramientas tecnológicas
+                td Correos, chat, redes sociales
               tr
-                td Autoservicio.
-                td Gestión directa por parte del cliente.
-                td #[i Check-in] en línea.
+                td Autoservicio
+                td Gestión directa por parte del cliente
+                td #[i Check-in] en línea
 
     .container
       .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -482,7 +482,7 @@
                 li
                   i.lista-ul__vineta
                   | Transmitir la información oportunamente.
-              p.mb-0 Los sistemas integrados (#[i PMS]) facilitan este proceso y garantizan seguimiento.
+              p.mb-0 Los sistemas integrados (PMS) facilitan este proceso y garantizan seguimiento.
             .col-md-10.col-lg-5
               figure
                 img(src="@/assets/curso/tema3/img33.png", alt="").mx-auto
@@ -501,7 +501,7 @@
             img.d-none.d-lg-flex(src="@/assets/curso/tema3/img34.svg", style="max-width: 90px").mx-auto
           .col-lg-12
             p.mb-3 La comunicación telemática integra tecnología e información, permitiendo la interacción entre personas a través de medios digitales.
-            p.mb-0 De igual forma, la comunicación telemática se clasifica según el tiempo en sincrónica (#[i chat] y video llamadas) y asincrónica (correos electrónicos). 
+            p.mb-0 De igual forma, la comunicación telemática se clasifica según el tiempo en sincrónica (chat y video llamadas) y asincrónica (correos electrónicos). 
 
       .col-lg-8.col-md-12
         .titulo-sexto.color-acento-contenido.mb-4
@@ -518,17 +518,17 @@
                 th.tabla7 Ejemplo
             tbody.tabla7
               tr.tabla7
-                td.tabla7 Unidireccional.
-                td.tabla7 Información en un solo sentido.
-                td.tabla7 Promociones enviadas.
+                td.tabla7 Unidireccional
+                td.tabla7 Información en un solo sentido
+                td.tabla7 Promociones enviadas
               tr.tabla7
-                td.tabla7 Bidireccional.
-                td.tabla7 Intercambio entre cliente y empresa.
-                td.tabla7 Solicitud de reserva.
+                td.tabla7 Bidireccional
+                td.tabla7 Intercambio entre cliente y empresa
+                td.tabla7 Solicitud de reserva
               tr.tabla7
-                td.tabla7 Bidireccional simultánea.
-                td.tabla7 Interacción inmediata.
-                td.tabla7 #[i Chat] en línea.
+                td.tabla7 Bidireccional simultánea
+                td.tabla7 Interacción inmediata
+                td.tabla7 Chat en línea
     
 
     separador
@@ -546,6 +546,8 @@
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
           h3.titulo-con-imagen__texto Escucha efectiva
+
+    p.mb-4 Escuchar es un proceso activo que implica comprender realmente lo que el cliente desea expresar.
 
     .container
       .row.justify-content-center.mb-5

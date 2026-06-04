@@ -56,7 +56,7 @@
                 p.mb-0 A continuación, lo invitamos a consultar el siguiente video para fortalecer sus habilidades en negociación con clientes del sector hotelero:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ky8mTxJkLas" target="_blank")
-                  span Ver video
+                  span Ver enlace
                   i.fas.fa-play-circle
 
 
@@ -124,7 +124,7 @@
                 p.mb-0 Para profundizar en este tema, lo invitamos a consultar el siguiente enlace de video de ACOTUR que aborda las claves para la negociación con clientes y proveedores.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=N8xUvuO470g" target="_blank")
-                  span Ver video
+                  span Ver enlace
                   i.fas.fa-play-circle
 
 
@@ -133,7 +133,7 @@
         SlyderA(tipo="b").bg-color-white.p-0.p-lg-4.tarjeta
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-8.mb-4.mb-lg-0.mb-3.mb-lg-0
-              h4.mb-3Caso práctico: negociación de tarifas y servicios
+              h4.mb-3 Caso práctico: negociación de tarifas y servicios
               p.mb-3 Un cliente corporativo contacta a un hotel en Bogotá para reservar alojamiento para un grupo de 15 personas durante tres días. El cliente solicita una tarifa especial por volumen, inclusión de desayuno y uso de una sala de reuniones sin costo adicional.
               
               .row.align-items-center

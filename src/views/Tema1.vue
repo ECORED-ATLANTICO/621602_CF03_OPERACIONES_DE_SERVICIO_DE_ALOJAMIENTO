@@ -52,7 +52,7 @@
           .tarjeta.color-acento-botones--borde.p-4(titulo="Viajero")
             .row.justify-content-center.align-items-center
               .col-lg-7.col-md-12.mb-4.mb-lg-0
-                p.mb-0 Asume el desplazamiento con mayor sensibilidad y apertura a la aventura. Aunque pueda realizar una planificación básica, tiende a adaptar sus recorridos en las circunstancias del entorno. Se interesa por lo desconocido, lo cultural y auténtico, mostrando un mayor nivel de involucramiento con la comunidad local y una disposición a salir de su zona de confort para enriquecer su experiencia.
+                p.mb-0 Asume el desplazamiento con mayor sensibilidad y apertura a la aventura. Aunque pueda realizar una planificación básica, tiende a adaptar sus recorridos en las circunstancias del entorno. Se interesa por lo desconocido, lo cultural y auténtico, mostrando un mayor nivel de involucramiento con la comunidad local y una disposición a salir de su zona de #[i confort] para enriquecer su experiencia.
               .col-lg-5.col-md-8
                 img(src="@/assets/curso/tema1/img05.png")
 
@@ -69,7 +69,7 @@
 
     .row.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8.col-md-12
-        p.mb-0 En Colombia existe un marco normativo que regula a los usuarios de servicios turísticos. La siguiente tabla resume dicho Marco normativo, destaca aspecto relevantes y describe la relación con dichos usuarios: 
+        p.mb-0 En Colombia existe un marco normativo que regula a los usuarios de servicios turísticos. La siguiente tabla resume dicho marco normativo, destaca aspectos relevantes y describe la relación con dichos usuarios: 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
@@ -88,38 +88,38 @@
                 th Relación con el usuario turístico
             tbody
               tr
-                td Ley 300 de 1996.
-                td Ley General de Turismo.
+                td Ley 300 de 1996
+                td Ley General de Turismo
                 td Regula la actividad turística en Colombia y establece principios para su desarrollo.
                 td Define derechos y deberes de los actores del sector, incluyendo la protección al usuario.
               tr
-                td Ley 1101 de 2006.
-                td Modificación de la Ley General de Turismo.
+                td Ley 1101 de 2006
+                td Modificación de la Ley General de Turismo
                 td Fortalece el financiamiento y promoción del turismo.
                 td Mejora la calidad del servicio turístico, beneficiando al usuario final.
               tr
-                td Ley 1558 de 2012.
-                td Reforma a la Ley de Turismo.
+                td Ley 1558 de 2012
+                td Reforma a la Ley de Turismo
                 td Impulsa la competitividad, sostenibilidad y calidad del turismo.
                 td Garantiza mejores condiciones de servicio, seguridad y formalidad para el usuario.
               tr
-                td Ley 1480 de 2011.
-                td Estatuto del Consumidor.
+                td Ley 1480 de 2011
+                td Estatuto del Consumidor
                 td Regula la protección de los consumidores en Colombia.
                 td Establece derechos como información veraz, calidad del servicio y protección frente a publicidad engañosa.
               tr
-                td Decreto 1074 de 2015.
-                td Decreto Único Reglamentario del Sector Comercio, Industria y Turismo.
+                td Decreto 1074 de 2015
+                td Decreto Único Reglamentario del Sector Comercio, Industria y Turismo
                 td Compila la normativa del sector comercio y turismo.
                 td Regula aspectos operativos que impactan la prestación del servicio al usuario.
               tr
-                td NTS (Normas Técnicas Sectoriales).
-                td Normas de calidad turística.
+                td NTS (Normas Técnicas Sectoriales)
+                td Normas de calidad turística
                 td Establecen estándares de calidad para prestadores turísticos.
                 td Garantizan condiciones de calidad, seguridad y servicio para el usuario.
               tr
-                td Registro Nacional de Turismo (RNT).
-                td Requisito obligatorio para prestadores.
+                td Registro Nacional de Turismo (RNT)
+                td Requisito obligatorio para prestadores
                 td Obliga a los prestadores a estar registrados formalmente.
                 td Protege al usuario al asegurar que el servicio proviene de empresas legalmente constituidas.
 
@@ -266,8 +266,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5.text-bold Figura 1.
           span Pirámide de Maslow
-        img.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img24.svg", alt="")
-        img.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img25.svg", alt="")
+        img.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img24.svg", alt="Se detalla en la figura los 5 niveles de necesidades de la pirámide de Maslow: Autorrealización, Estima y reconocimiento, Sociales, Seguridad, Fisiológicas.")
+        img.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img25.svg", alt="Se detalla en la figura los 5 niveles de necesidades de la pirámide de Maslow: Autorrealización, Estima y reconocimiento, Sociales, Seguridad, Fisiológicas.")
         figcaption Nota. SENA, (2026).
       
       .col-lg-6.col-md-12.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-right")
@@ -309,7 +309,7 @@
                 p.mb-0 Lo invitamos a consultar el siguiente video para ampliar sus conocimientos sobre la demanda turística.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=gT5_r8rQqFU" target="_blank")
-                  span Ver video
+                  span Ver enlace
                   i.fas.fa-play-circle
 
     separador
@@ -356,40 +356,40 @@
                 th Consideración operativa
             tbody
               tr
-                td Flexibilidad de horarios.
-                td Solicitud de #[i check-in] temprano o #[i check-out] tardío.
-                td Recepción.
-                td Sujeto a disponibilidad de habitaciones.
+                td Flexibilidad de horarios
+                td Solicitud de #[i check-in] temprano o #[i check-out] tardío
+                td Recepción
+                td Sujeto a disponibilidad de habitaciones
               tr
-                td Conectividad.
-                td Acceso a #[i wifi] estable y de alta velocidad.
-                td Sistemas / Recepción.
-                td Garantizar cobertura y soporte técnico.
+                td Conectividad
+                td Acceso a #[i wifi] estable y de alta velocidad
+                td Sistemas / Recepción
+                td Garantizar cobertura y soporte técnico
               tr
-                td Espacios de trabajo.
-                td Salas de juntas o áreas para reuniones.
-                td Administración / Eventos.
-                td Requiere reserva previa.
+                td Espacios de trabajo
+                td Salas de juntas o áreas para reuniones
+                td Administración / Eventos
+                td Requiere reserva previa
               tr
-                td Ubicación y transporte.
-                td Cercanía a puntos de interés o traslado.
-                td Recepción / #[i Concierge].
-                td Coordinación con proveedores externos.
+                td Ubicación y transporte
+                td Cercanía a puntos de interés o traslado
+                td Recepción / #[i Concierge]
+                td Coordinación con proveedores externos
               tr
-                td Atención personalizada.
-                td Preferencias del huésped (alimentación, habitación, trato).
-                td Todo el personal.
-                td Registro previo de preferencias.
+                td Atención personalizada
+                td Preferencias del huésped (alimentación, habitación, trato)
+                td Todo el personal
+                td Registro previo de preferencias
               tr
-                td Servicios adicionales.
-                td Alimentación, lavandería, turismo, <i>tours</i>.
-                td Alimentos y bebidas / Turismo.
-                td Puede implicar costos adicionales.
+                td Servicios adicionales
+                td Alimentación, lavandería, turismo, <i>tours</i>
+                td Alimentos y bebidas / Turismo
+                td Puede implicar costos adicionales
               tr
-                td Accesibilidad.
-                td Adaptaciones para personas con movilidad reducida.
-                td Operaciones.
-                td Cumplimiento de normativas.
+                td Accesibilidad
+                td Adaptaciones para personas con movilidad reducida
+                td Operaciones
+                td Cumplimiento de normativas
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-10.mb-0.col-md-12
@@ -402,7 +402,7 @@
                 p.mb-0 Lo invitamos a consultar el siguiente enlace para profundizar en el tema de calidad y atención al cliente en empresas turísticas:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=7o0CLxirA9g" target="_blank")
-                  span Ver video
+                  span Ver enlace
                   i.fas.fa-play-circle
 
     separador
@@ -446,7 +446,7 @@
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Acceso a la información")
             .row.justify-content-center.align-items-center
               .col-lg-8.col-md-12.order-2.order-lg-1
-                p.mb-0 Se resume en el uso de Internet, redes sociales y plataformas digitales para validar o confirmar la decisión de compra.<br><br><b>Ejemplo en turismo:</b> consultar reseñas en páginas como #[i Booking] o #[i TripAdvisor].
+                p.mb-0 Se resume en el uso de Internet, redes sociales y plataformas digitales para validar o confirmar la decisión de compra.<br><br><b>Ejemplo en turismo:</b> consultar reseñas en páginas como Booking o TripAdvisor.
               .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
                 img(src="@/assets/curso/tema1/img39.svg", style="max-width: 100px !important").mx-auto
 
@@ -558,22 +558,22 @@
                 th Descripción
             tbody
               tr
-                td Experiencia ágil y sencilla.
+                td Experiencia ágil y sencilla
                 td Los clientes valoran procesos rápidos, cómodos y eficientes en áreas como reservas, recepción y atención durante la estadía.
               tr
-                td Personalización del servicio.
+                td Personalización del servicio
                 td Se busca generar conexiones emocionales con el cliente mediante un trato cercano y adaptado a sus preferencias.
               tr
-                td Uso de tecnología.
+                td Uso de tecnología
                 td La digitalización facilita el acceso a información, reservas en línea, comparación de precios y comunicación inmediata.
               tr
-                td Geolocalización y comunicación en tiempo real.
+                td Geolocalización y comunicación en tiempo real
                 td Permite ofrecer servicios, promociones o información relevante según la ubicación del cliente.
               tr
-                td Estrategias de valor agregado.
+                td Estrategias de valor agregado
                 td Más allá del precio, se prioriza ofrecer beneficios adicionales que enriquezcan la experiencia del usuario.
               tr
-                td Enfoque en deseos y motivaciones.
+                td Enfoque en deseos y motivaciones
                 td Los servicios se diseñan según intereses y experiencias buscadas, más que por características demográficas del cliente.
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
@@ -587,7 +587,7 @@
                 p.mb-0 Lo invitamos a consultar el siguiente video, para profundizar sobre la importancia de las encuestas de satisfacción al cliente en agencias de viajes:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=7TK6GtIvw8U" target="_blank")
-                  span Ver video
+                  span Ver enlace
                   i.fas.fa-play-circle
 
 

@@ -240,7 +240,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA3_621602_DU.pdf',
+        download: 'downloads/621602_CF3_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -462,18 +462,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Amparo Virginia Moreno Cantero',
+          nombre: 'Sandra Isabel Suarez Delgado',
           cargo: 'Experto temático',
           centro: 'Centro de Servicios y Gestión Empresarial',
         },
         {
-          nombre: 'Harbey Castelblanco Muñoz',
-          cargo: 'Experto temático',
-          centro: 'Centro Nacional Colombo Alemán – Atlántico',
-        },
-        {
           nombre: 'María Fernanda Morales Angulo',
-          cargo: 'Diseñador instruccional',
+          cargo: 'Evaluador Instruccional',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],

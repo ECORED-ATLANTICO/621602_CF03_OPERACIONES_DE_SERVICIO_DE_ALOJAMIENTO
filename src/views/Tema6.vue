@@ -53,8 +53,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5.text-bold Figura 4.
           span Modelo AIDA
-        img.d-none.d-lg-block(data-aos="fade-down", src="@/assets/curso/tema6/img06.svg", alt="La figura 4 ilustra el modelo AIDA, técnica de mercadeo que describe las 4 etapas por las que pasa el consumidor antes de comprar un producto.").mx-auto
-        img.d-block.d-lg-none(data-aos="fade-down", src="@/assets/curso/tema6/img06-m.svg", alt="La figura 4 ilustra el modelo AIDA, técnica de mercadeo que describe las 4 etapas por las que pasa el consumidor antes de comprar un producto.").mx-auto
+        img.d-none.d-lg-block(data-aos="fade-down", src="@/assets/curso/tema6/img06.svg", alt="La figura 4 ilustra el modelo AIDA, técnica de mercadeo que describe las 4 etapas por las que pasa el consumidor antes de comprar un producto. Atención: captar el interés del cliente hacia el servicio. Interés: generar curiosidad resaltando los beneficios. Deseo: lograr que el cliente quiera adquirir el servicio. Acción: concretar la venta.").mx-auto
+        img.d-block.d-lg-none(data-aos="fade-down", src="@/assets/curso/tema6/img06-m.svg", alt="La figura 4 ilustra el modelo AIDA, técnica de mercadeo que describe las 4 etapas por las que pasa el consumidor antes de comprar un producto. Atención: captar el interés del cliente hacia el servicio. Interés: generar curiosidad resaltando los beneficios. Deseo: lograr que el cliente quiera adquirir el servicio. Acción: concretar la venta.").mx-auto
         figcaption Nota.  SENA, (2026).
     
 
@@ -81,28 +81,28 @@
                     .col-8
                       img(src='@/assets/curso/tema6/img08.svg' alt='', style="width: 100px;").mx-auto
                   h4.text-center Situación:
-                  p.text-center identificar el contexto y motivaciones del cliente.
+                  p.text-center Identificar el contexto y motivaciones del cliente.
 
                 .tarjeta.bg-white.p-4.h-100
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/tema6/img09.svg' alt='', style="width: 100px;").mx-auto
                   h4.text-center Problema:
-                  p.text-center detectar necesidades o dificultades.
+                  p.text-center Detectar necesidades o dificultades.
 
                 .tarjeta.bg-white.p-4.h-100
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/tema6/img10.svg' alt='', style="width: 100px;").mx-auto
                   h4.text-center Implicación:
-                  p.text-center evidenciar las consecuencias de no tomar una decisión.
+                  p.text-center Evidenciar las consecuencias de no tomar una decisión.
 
                 .tarjeta.bg-white.p-4.h-100
                   .row.justify-content-center.mb-3
                     .col-8
                       img(src='@/assets/curso/tema6/img11.svg' alt='', style="width: 100px;").mx-auto
                   h4.text-center Necesidad / Beneficio:
-                  p.text-center mostrar cómo el servicio satisface sus necesidades.
+                  p.text-center Mostrar cómo el servicio satisface sus necesidades.
 
     
     .container
