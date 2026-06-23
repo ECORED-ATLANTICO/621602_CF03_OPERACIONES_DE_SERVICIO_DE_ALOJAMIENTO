@@ -357,39 +357,39 @@
             tbody
               tr
                 td Flexibilidad de horarios
-                td Solicitud de #[i check-in] temprano o #[i check-out] tardío
+                td Solicitud de #[i check-in] temprano o #[i check-out] tardío.
                 td Recepción
-                td Sujeto a disponibilidad de habitaciones
+                td Sujeto a disponibilidad de habitaciones.
               tr
                 td Conectividad
-                td Acceso a #[i wifi] estable y de alta velocidad
+                td Acceso a #[i wifi] estable y de alta velocidad.
                 td Sistemas / Recepción
-                td Garantizar cobertura y soporte técnico
+                td Garantizar cobertura y soporte técnico.
               tr
                 td Espacios de trabajo
-                td Salas de juntas o áreas para reuniones
+                td Salas de juntas o áreas para reuniones.
                 td Administración / Eventos
-                td Requiere reserva previa
+                td Requiere reserva previa.
               tr
                 td Ubicación y transporte
-                td Cercanía a puntos de interés o traslado
+                td Cercanía a puntos de interés o traslado.
                 td Recepción / #[i Concierge]
-                td Coordinación con proveedores externos
+                td Coordinación con proveedores externos.
               tr
                 td Atención personalizada
-                td Preferencias del huésped (alimentación, habitación, trato)
+                td Preferencias del huésped (alimentación, habitación, trato).
                 td Todo el personal
-                td Registro previo de preferencias
+                td Registro previo de preferencias.
               tr
                 td Servicios adicionales
-                td Alimentación, lavandería, turismo, <i>tours</i>
+                td Alimentación, lavandería, turismo, <i>tours</i>.
                 td Alimentos y bebidas / Turismo
-                td Puede implicar costos adicionales
+                td Puede implicar costos adicionales.
               tr
                 td Accesibilidad
-                td Adaptaciones para personas con movilidad reducida
+                td Adaptaciones para personas con movilidad reducida.
                 td Operaciones
-                td Cumplimiento de normativas
+                td Cumplimiento de normativas.
 
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-12.col-lg-10.mb-0.col-md-12

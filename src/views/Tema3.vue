@@ -382,19 +382,19 @@
             tbody
               tr
                 td Presencial
-                td Interacción directa cara a cara
+                td Interacción directa cara a cara.
                 td Recepción del hotel
               tr
                 td Telefónico
-                td Comunicación por voz sin contacto visual
+                td Comunicación por voz sin contacto visual.
                 td Reservas o consultas
               tr
                 td Digital / telemático
-                td Uso de herramientas tecnológicas
+                td Uso de herramientas tecnológicas.
                 td Correos, chat, redes sociales
               tr
                 td Autoservicio
-                td Gestión directa por parte del cliente
+                td Gestión directa por parte del cliente.
                 td #[i Check-in] en línea
 
     .container
@@ -519,15 +519,15 @@
             tbody.tabla7
               tr.tabla7
                 td.tabla7 Unidireccional
-                td.tabla7 Información en un solo sentido
+                td.tabla7 Información en un solo sentido.
                 td.tabla7 Promociones enviadas
               tr.tabla7
                 td.tabla7 Bidireccional
-                td.tabla7 Intercambio entre cliente y empresa
+                td.tabla7 Intercambio entre cliente y empresa.
                 td.tabla7 Solicitud de reserva
               tr.tabla7
                 td.tabla7 Bidireccional simultánea
-                td.tabla7 Interacción inmediata
+                td.tabla7 Interacción inmediata.
                 td.tabla7 Chat en línea
     
 

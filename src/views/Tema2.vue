@@ -279,47 +279,47 @@
                 td Recepción
                 td Tiempo de atención en #[i check-in]
                 td El proceso de registro del huésped debe realizarse de manera ágil y organizada.
-                td #[i Check-in] realizado en máximo 5 minutos
+                td #[i Check-in] realizado en máximo 5 minutos.
               tr
                 td Recepción
                 td Presentación del personal
                 td El personal debe mantener una imagen profesional acorde a la política del hotel.
-                td Uniforme limpio, completo y buena presentación personal
+                td Uniforme limpio, completo y buena presentación personal.
               tr
                 td Habitaciones
                 td Limpieza y acondicionamiento
                 td Las habitaciones deben entregarse limpias, ordenadas y en óptimas condiciones.
-                td Habitación disponible y lista antes del horario de ingreso
+                td Habitación disponible y lista antes del horario de ingreso.
               tr
                 td Alimentos y bebidas
                 td Tiempo de servicio
                 td Los pedidos deben ser entregados en un tiempo adecuado.
-                td Servicio en mesa en máximo 15 - 20 minutos
+                td Servicio en mesa en máximo 15 - 20 minutos.
               tr
                 td Servicio al cliente
                 td Atención al huésped
                 td El trato debe ser amable, respetuoso y oportuno.
-                td Saludo, contacto visual y disposición de ayuda en cada interacción
+                td Saludo, contacto visual y disposición de ayuda en cada interacción.
               tr
                 td Mantenimiento
                 td Respuesta a fallas
                 td Las solicitudes de mantenimiento deben ser atendidas oportunamente.
-                td Solución de incidencias en menos de 30 minutos (según complejidad)
+                td Solución de incidencias en menos de 30 minutos (según complejidad).
               tr
                 td Tecnología
                 td Conectividad
                 td El servicio de internet debe ser estable y accesible.
-                td Cobertura #[i wifi] en todas las áreas del hotel
+                td Cobertura #[i wifi] en todas las áreas del hotel.
               tr
                 td Reservas
                 td Confirmación de reservas
                 td Toda reserva debe ser confirmada y registrada correctamente.
-                td Confirmación enviada al cliente en menos de 24 horas
+                td Confirmación enviada al cliente en menos de 24 horas.
               tr
                 td Seguridad
                 td Protocolos de seguridad
                 td El hotel debe garantizar condiciones seguras para huéspedes y personal.
-                td Cumplimiento de protocolos y señalización visible
+                td Cumplimiento de protocolos y señalización visible.
 
     .row.justify-content-center.mb-5
       .col-12.col-lg-10.mb-0.col-md-12
