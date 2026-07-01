@@ -448,12 +448,12 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
+            'Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
+          centro: 'Centro Agroturístico – Regional Santander',
         },
         {
-          nombre: 'Miguel de Jesús Paredes Maestre',
-          cargo: 'Responsable de la línea de producción',
+          nombre: 'Miguel De Jesús Paredes Maestre',
+          cargo: 'Responsable de línea de producción',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
@@ -462,28 +462,67 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Sandra Isabel Suarez Delgado',
+          nombre: 'Roberto Augusto Bernal Duque',
           cargo: 'Experto temático',
-          centro: 'Centro de Servicios y Gestión Empresarial',
+          centro:
+            'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
         },
         {
-          nombre: 'María Fernanda Morales Angulo',
-          cargo: 'Evaluador Instruccional',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          nombre: 'Yeison Farid Méndez Ortiz',
+          cargo: 'Experto temático',
+          centro: 'Centro Agropecuario “La Granja” – Regional Tolima.',
+        },
+        {
+          nombre: 'Orlando Barón Méndez',
+          cargo: 'Experto temático',
+          centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Paula Andrea Taborda Ortiz',
+          cargo: 'Diseñadora instruccional',
+          centro: 'Centro de Diseño y Metrología – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Diseñadora instruccional',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica– Regional Distrito Capital',
+        },
+        {
+          nombre: 'Silvia Milena Sequeda Cárdenas',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de diseño y Metrología – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor pedagógico',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura – Regional Santander',
+        },
+        {
+          nombre: 'Fabian Cuartas Donado',
+          cargo: 'Evaluador instruccional',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
     {
-      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      titulo: 'DISEÑADOR Y DESARROLLADOR DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
           nombre: 'Carmen Alicia Martínez Torres',
-          cargo: 'Diseño web',
+          cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Álvaro Guillermo Araújo Angarita',
           cargo: 'Desarrollador <i>full stack</i>',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
@@ -508,12 +547,12 @@ export default {
         },
         {
           nombre: 'Jonathan Adié Villafañe',
-          cargo: 'Validador y vinculador de recursos digitales',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos digitales',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
