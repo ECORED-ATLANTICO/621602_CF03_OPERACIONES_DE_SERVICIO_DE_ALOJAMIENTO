@@ -27,8 +27,14 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 El servicio al cliente se entiende como el conjunto de acciones, procesos y actividades que una organización desarrolla para satisfacer las necesidades, deseos y expectativas del usuario, más allá del producto básico ofrecido. Este concepto integra tanto los elementos tangibles como intangibles del servicio, los cuales están directamente relacionados con el valor percibido por el cliente en función del precio y la imagen del establecimiento. En este sentido, el objetivo institucional no se limita a la venta de un servicio, sino que se orienta a generar experiencias positivas que permitan ganar y mantener clientes satisfechos.
 
-
       
+    .container
+      .titulo-con-imagen.mb-5(data-aos="fade-right")
+        .titulo-con-imagen__fondo
+          img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
+          h3.titulo-con-imagen__texto Los elementos tangibles del servicio al cliente son
+
+
     .bg-full-width.bg-fondo-7.px-5.py-4.mb-5
       .container
         .tarjeta.row.justify-content-center.align-items-center.mb-0.p-2(data-aos="fade-right")
@@ -36,7 +42,6 @@
             .col-lg-3.col-md-8.mb-4.mb-lg-0
               img(src='@/assets/curso/tema2/img04.png', alt='')
             .col-lg-9.col-md-12
-              p.mb-3 Los elementos tangibles del servicio al cliente son:
               SlyderF(columnas="col-lg-6 col-xl-4 col-md-12 col-sm-12")
                 .tarjeta.bg-white.p-4.h-100
                   .row.justify-content-center.mb-3

@@ -388,19 +388,19 @@ export default {
   referencias: [
     {
       referencia:
-        'Diario del exportador. (2020/10). <em>Los diez Componentes básicos del buen servicio</em>. https://www.diariodelexportador.com/2018/04/los-10-componentes-basicos-del-buen.html',
+        'Diario del exportador. (2020/10). <em>Los diez Componentes básicos del buen servicio</em>.',
       link:
         'https://www.diariodelexportador.com/2018/04/los-10-componentes-basicos-del-buen.html',
     },
     {
       referencia:
-        'Dinámicas grupales (2020/10) <em>Dinámicas bloqueos en la comunicación</em>. https://dinamicasgrupales.com.ar/dinamicas/comunicacion/dinamica-bloqueos-la-comunicacion/',
+        'Dinámicas grupales (2020/10) <em>Dinámicas bloqueos en la comunicación</em>.',
       link:
         'https://dinamicasgrupales.com.ar/dinamicas/comunicacion/dinamica-bloqueos-la-comunicacion/',
     },
     {
       referencia:
-        'Hosteltur. (julio 2016). <em>Seis mega tendencias de la industria hotelera según Sabre</em>. https://www.hosteltur.com/116944_seis-megatendencias-industria-hotelera-sabre.html',
+        'Hosteltur. (julio 2016). <em>Seis mega tendencias de la industria hotelera según Sabre</em>.',
       link:
         'https://www.hosteltur.com/116944_seis-megatendencias-industria-hotelera-sabre.html',
     },
@@ -410,13 +410,13 @@ export default {
     },
     {
       referencia:
-        'Kotler, P., Bowen, J. T., y Makens, J. C. (2011). <em>Marketing turístico</em> (5.ª ed.). Pearson Educación. https://www.entornoturistico.com/wp-content/uploads/2017/04/Marketing-Tur%C3%ADstico-de-Philip-Kotler.pdf',
+        'Kotler, P., Bowen, J. T., y Makens, J. C. (2011). <em>Marketing turístico</em> (5.ª ed.). Pearson Educación.',
       link:
         'https://www.entornoturistico.com/wp-content/uploads/2017/04/Marketing-Tur%C3%ADstico-de-Philip-Kotler.pdf',
     },
     {
       referencia:
-        'Lifeder (2020/10) <em>Ciclo del servicio al cliente: en empresa, hotel y salud</em>. https://www.lifeder.com/ciclo-servicio-cliente/',
+        'Lifeder (2020/10) <em>Ciclo del servicio al cliente: en empresa, hotel y salud</em>.',
       link: 'https://www.lifeder.com/ciclo-servicio-cliente/',
     },
     {
@@ -432,8 +432,7 @@ export default {
         'Schnarch Kirberg, Alejandro. (2017) <em>Marketing de Fidelización</em>.',
     },
     {
-      referencia:
-        'Scribd. (2020/11). <em>Atención al cliente</em>. https://es.scribd.com/document/363401050/Atencion-Al-Cliente',
+      referencia: 'Scribd. (2020/11). <em>Atención al cliente</em>.',
       link: 'https://es.scribd.com/document/363401050/Atencion-Al-Cliente',
     },
     {
