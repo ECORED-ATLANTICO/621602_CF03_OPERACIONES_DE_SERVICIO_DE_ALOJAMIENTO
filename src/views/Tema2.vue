@@ -32,7 +32,7 @@
       .titulo-con-imagen.mb-5(data-aos="fade-right")
         .titulo-con-imagen__fondo
           img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-          h3.titulo-con-imagen__texto Los elementos tangibles del servicio al cliente son
+          h3.titulo-con-imagen__texto Los elementos tangibles del servicio al cliente son:
 
 
     .bg-full-width.bg-fondo-7.px-5.py-4.mb-5

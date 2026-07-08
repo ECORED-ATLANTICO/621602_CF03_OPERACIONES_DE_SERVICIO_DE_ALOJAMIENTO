@@ -240,7 +240,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/621602_CF3_DU.pdf',
+        download: 'downloads/621602_CF03_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -463,7 +463,8 @@ export default {
         {
           nombre: 'Sandra Isabel Suarez Delgado',
           cargo: 'Experto temático',
-          centro: 'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
+          centro:
+            'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
         },
         {
           nombre: 'María Fernanda Morales Angulo',
