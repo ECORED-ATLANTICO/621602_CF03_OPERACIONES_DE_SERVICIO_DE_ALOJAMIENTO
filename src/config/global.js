@@ -463,7 +463,7 @@ export default {
         {
           nombre: 'Sandra Isabel Suarez Delgado',
           cargo: 'Experto temático',
-          centro: 'Centro de Servicios y Gestión Empresarial',
+          centro: 'Centro de Servicios y Gestión Empresarial - Regional Antioquia',
         },
         {
           nombre: 'María Fernanda Morales Angulo',
